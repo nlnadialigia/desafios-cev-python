@@ -25,7 +25,7 @@ Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do
 ### [Desafio 01 - Deixando tudo pronto](./challenges/challenge001.py)
 - Criar script python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.
 
-### Desafio 02 - Respondendo ao usuário
+### [Desafio 02 - Respondendo ao usuário](./challenges/challenge002.py)
 - Criar script Python que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 
 
