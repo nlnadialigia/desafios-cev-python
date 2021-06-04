@@ -19,50 +19,58 @@ Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do
 
 # 📌 Índice
 
-## 📝 Mundo 1
+### 📝 Mundo 1
 
-### [Desafio 01 - Deixando tudo pronto](./challenges/challenge001.py)
+⚙️ [Desafio 01 - Deixando tudo pronto](./challenges/challenge001.py)
 - Crie um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.
 
-### [Desafio 02 - Respondendo ao usuário](./challenges/challenge002.py)
+⚙️ [Desafio 02 - Respondendo ao usuário](./challenges/challenge002.py)
 - Crie um programa que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 
-### [Desafio 03 - Somando dois números](./challenges/challenge003.py)
+⚙️ [Desafio 03 - Somando dois números](./challenges/challenge003.py)
 - Crie um programa que leia dos números e tente mostra a soma entre eles.
 
-#### [Desafio 04 - Dissecando uma Variável](./challenges/challenge004.py)
+⚙️ [Desafio 04 - Dissecando uma Variável](./challenges/challenge004.py)
 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-<!-- #### Desafio 05 - 
+⚙️ [Desafio 05 – Antecessor e Sucessor]((./challenges/challenge005.py))
+- Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor
 
-#### Desafio
+⚙️ [Desafio 06 – Dobro, Triplo, Raiz Quadrada]((./challenges/challenge006.py))
+- Cria um algorítimo que leia um número e mosto o seu dobro, tripo e raiz quadrada.
 
-#### Desafio
+⚙️ [Desafio 07 – Média Aritmética]((./challenges/challenge007.py))
+- Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média
 
-#### Desafio
+⚙️ [Desafio 08 – Conversor de Medidas]((./challenges/challenge008.py))
+- Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros
 
-#### Desafio
+⚙️ [Desafio 09 – Tabuada]((./challenges/challenge009.py))
+- Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada
 
-#### Desafio
+⚙️ [Desafio 10 – Conversor de Moedas]((./challenges/challenge010.py))
+- Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar
+- Considere US$ 1.00 = R$3,27
 
-#### Desafio
+⚙️ [Desafio 11 – Pintando Parede]((./challenges/challenge011.py))
+- Faça um programa que leia a largura e altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
 
-#### Desafio
+⚙️ [Desafio 12 – Calculando Descontos]((./challenges/challenge012.py))
+- Faça um algoritmo que leia o preço de um produto e mostre seu novo preço com 5% de desconto.
 
-#### Desafio
+⚙️ [Desafio 13 – Reajuste Salarial]((./challenges/challenge013.py))
+- Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento
 
-#### Desafio
+⚙️ [Desafio 14 – Conversor de Temperaturas]((./challenges/challenge014.py))
+- Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
 
-#### Desafio
-
-#### Desafio
-
-#### Desafio -->
+⚙️ [Desafio 15 – Aluguel de Carros]((./challenges/challenge015.py))
+- Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
 
-## 📝 Mundo 2
+### 📝 Mundo 2
 
-## 📝 Mundo 3
+### 📝 Mundo 3
 
 
 # 👩‍💼 Author
