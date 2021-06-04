@@ -6,8 +6,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/desafios-cev-python?color=2541b2&style=plastic">
 
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/desafios-cev-python?color=2541b2&style=plastic">
-   
-
+  
   <a href="./LICENSE.md">
   <img alt="GitHub" src="https://img.shields.io/github/license/nlnadialigia/desafios-cev-python?color=2541b2&style=plastic">
   </a>
@@ -23,15 +22,42 @@ Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do
 ## 📝 Mundo 1
 
 ### [Desafio 01 - Deixando tudo pronto](./challenges/challenge001.py)
-- Criar script python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.
+- Crie um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.
 
 ### [Desafio 02 - Respondendo ao usuário](./challenges/challenge002.py)
-- Criar script Python que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
-
+- Crie um programa que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 
 ### [Desafio 03 - Somando dois números](./challenges/challenge003.py)
-- Criar um script Python que leia dos números e tente mostra a soma entre eles.
+- Crie um programa que leia dos números e tente mostra a soma entre eles.
 
+#### [Desafio 04 - Dissecando uma Variável](./challenges/challenge004.py)
+- Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+<!-- #### Desafio 05 - 
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio
+
+#### Desafio -->
 
 
 ## 📝 Mundo 2
