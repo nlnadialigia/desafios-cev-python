@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/logo.png" width=300 alt="Exercicios Python Brasil">
+  <img src=".github/logo.png" width=300 alt="Curso em Vídeo">
 </p>
 
 <h1 align="center">
