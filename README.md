@@ -29,7 +29,7 @@ Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do
 - Criar script Python que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 
 
-### Desafio 03 - Somando dois números
+### [Desafio 03 - Somando dois números](./challenges/challenge003.py)
 - Criar um script Python que leia dos números e tente mostra a soma entre eles.
 
 
