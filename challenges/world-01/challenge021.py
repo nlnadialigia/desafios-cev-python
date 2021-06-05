@@ -7,7 +7,7 @@ print('Resolução do Professor: ', end='')
 print(clear)
 
 mixer.init()
-mixer.music.load('midia.mp3')
+mixer.music.load('../midia.mp3')
 mixer.music.play()
 x = input('digite algo para encerrar ...')
 
