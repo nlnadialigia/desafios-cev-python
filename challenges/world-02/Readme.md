@@ -62,6 +62,49 @@
 ⚙️ [Desafio 45 – GAME: Pedra Papel e Tesoura](./challenges/world-02/challenge045.py)
 - Crie um programa que faça o computador jogar Jokenpô com você.
 
+⚙️ [Desafio 46 - Contagem Regressiva](./challenges/world-02/challenge046.py)
+- Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+
+⚙️ [Desafio 47 - Contagem de pares](./challenges/world-02/challenge047.py)
+- Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+
+⚙️ [Desafio 48 - Soma ímpares múltiplos de três](./challenges/world-02/challenge048.py)
+- Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+
+⚙️ [Desafio 49 - Tabuada v.2.0](./challenges/world-02/challenge049.py)
+- Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+
+⚙️ [Desafio 50 - Soma dos pares](./challenges/world-02/challenge050.py)
+- Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
+
+⚙️ [Desafio 51 - Progressão Aritmética](./challenges/world-02/challenge051.py)
+- Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
+
+⚙️ [Desafio 52 - Números primos](./challenges/world-02/challenge052.py)
+- Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+
+⚙️ [Desafio 53 - Detector de Palíndromo](./challenges/world-02/challenge053.py)
+- Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+- Exemplo:
+  - APOS A SOPA
+  - A SACADA DA CASA
+  - A TORRE DA DERROTA
+  - O LOBO AMA O BOLO
+  - ANOTARAM A DATA DA MARATONA
+
+⚙️ [Desafio 54 - Grupo da Maioridade](./challenges/world-02/challenge054.py)
+- Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+- Considere maioridade de 21 anos
+
+⚙️ [Desafio 55 - Maior e menor sequência](./challenges/world-02/challenge055.py)
+- Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
+
+⚙️ [Desafio 56 - Analisador completo](./challenges/world-02/challenge056.py)
+- Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: 
+  - a média de idade do grupo,
+  - qual é o nome do homem mais velho e
+  - quantas mulheres têm menos de 20 anos.
+
 # 👩‍💼 Author
 <img src="../../.github/picture.png" width="100px;" alt="Picture"/>
 <p><b>Nádia Ligia, budding back-end developer.</b></p>
