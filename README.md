@@ -67,6 +67,65 @@ Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do
 ⚙️ [Desafio 15 – Aluguel de Carros](./challenges/challenge015.py)
 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
+⚙️ [Desafio 16 – Quebrando um número](./challenges/challenge016.py)
+- Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+
+⚙️ [Desafio 17 – Catetos e Hipotenusa](./challenges/challenge017.py)
+- Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
+
+⚙️ [Desafio 18 – Seno, Cosseno e Tangente](./challenges/challenge018.py)
+- Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+
+⚙️ [Desafio 19 – Sorteando um item na lista](./challenges/challenge019.py)
+- Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
+
+⚙️ [Desafio 20 – Sorteando uma ordem na lista](./challenges/challenge020.py)
+- O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+
+⚙️ [Desafio 21 – Tocando um MP3](./challenges/challenge021.py)
+- Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+
+⚙️ [Desafio 22 – Analisador de Textos](./challenges/challenge022.py)
+- Crie um programa que leia o nome completo de uma pessoa e mostre: 
+  - O nome com todas as letras maiúsculas e minúsculas.
+  - Quantas letras ao todo (sem considerar espaços).
+  - Quantas letras tem o primeiro nome.
+
+⚙️ [Desafio 23 – Separando dígitos de um número](./challenges/challenge023.py)
+- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados. Fazer o programa como string e como number.
+
+- Exemplo:
+  ```python
+  Digite um número: 1834
+
+  unidade: 4
+  dezena: 3
+  centena: 8
+  milhar: 1
+  ```
+
+⚙️ [Desafio 24 – Verificando as primeiras letras de um texto](./challenges/challenge024.py)
+- Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome "SANTO".
+
+⚙️ [Desafio 25 – Procurando uma string dentro de outra](./challenges/challenge025.py)
+- Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA"
+
+⚙️ [Desafio 26 – Primeira e última ocorrência de uma string](./challenges/challenge026.py)
+- Faça um programa que leia uma frase pelo teclado e mostre:
+  - quantas vezes aparece a letra "A",
+  - em que posição ela aparece a primeira vez e
+  - em que posição ela aparece a última vez.
+
+⚙️ [Desafio 27 – Primeiro e último nome de uma pessoa](./challenges/challenge027.py)
+- Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
+- Exemplo:
+  ```python
+  Digite seu nome: Ana Maria de Souza
+
+  primeiro = Ana
+  último = Souza
+  ```
 
 ### 📝 Mundo 2
 
