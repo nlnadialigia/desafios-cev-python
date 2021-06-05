@@ -127,6 +127,40 @@ Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do
   último = Souza
   ```
 
+⚙️ [Desafio 28 – Jogo da Adivinhação v.1.0](./challenges/challenge028.py)
+- Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. 
+- O programa deverá escrever na tela se o usuário venceu ou perdeu.
+
+**Dicas:**
+
+*random.randint(a, b)* => Retorna um inteiro aleatório N de forma que a <= N <= b. 
+
+*time.sleep(secs)* => Execução suspensa da thread chamada para o número de segundos dado. O argumento pode ser um número em ponto flutuante para indicar um tempo de sono mais preciso. O tempo de suspensão atual pode ser menor do que o solicitado porque qualquer sinal capturado irá terminar sleep() seguindo a execução da rotina de captura daquele sinal. Além disso, o tempo de suspensão pode ser maior do que o solicitado por uma quantidade arbitrária devido ao agendamento de outra atividade no sistema.
+
+⚙️ [Desafio 29 – Radar eletrônico](./challenges/challenge029.py)
+- Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+
+⚙️ [Desafio 30 – Par ou Ímpar](./challenges/challenge030.py)
+- Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+
+⚙️ [Desafio 31 – Custo da Viagem](./challenges/challenge031.py)
+- Desenvolva um programa que pergunte a distância de uma viagem em Km. 
+- Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+
+⚙️ [Desafio 32 – Ano Bissexto](./challenges/challenge032.py)
+- Faça um programa que leia um ano qualquer e mostre se ele é **bissexto**.
+
+⚙️ [Desafio 33 – Maior e menor valores](./challenges/challenge033.py)
+- Faça um programa que leia três números e mostre qual é o maior e qual é o menor
+
+⚙️ [Desafio 34 – Aumentos múltiplos](./challenges/challenge034.py)
+- Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. 
+- Para salários superiores a R$1250,00, calcule um aumento de 10%. 
+- Para os inferiores ou iguais, o aumento é de 15%.
+
+⚙️ [Desafio 35 – Analisando Triângulo v1.0](./challenges/challenge035.py)
+- Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+
 ### 📝 Mundo 2
 
 ### 📝 Mundo 3
