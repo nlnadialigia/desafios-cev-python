@@ -144,3 +144,15 @@
 ⚙️ [Desafio 35 – Analisando Triângulo v1.0](challenges/world-01/challenge035.py)
 - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 
+# 👩‍💼 Author
+<img src="../../.github/picture.png" width="100px;" alt="Picture"/>
+<p><b>Nádia Ligia, budding back-end developer.</b></p>
+<a href="https://www.linkedin.com/in/nlnadialigia/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin -8703A4?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nlnadialigia/" />
+</a>&nbsp;
+<a href="mailto:nlnadialigia@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/-Email-8703A4?style=flat&logo=Gmail&logoColor=white&link=mailto:nlnadialigia@gmail.com" />
+</a>&nbsp;
+<a href="https://www.nlnadialigia.com">
+  <img alt="Homepage" src="https://img.shields.io/badge/-Homepage-8703A4" />
+</a>

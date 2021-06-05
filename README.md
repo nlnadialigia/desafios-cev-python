@@ -21,9 +21,7 @@ Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do
 
 ### 📝 [Mundo 1](./challenges/world-01)
 
-### 📝 Mundo 2
-
-
+### 📝 [Mundo 2](./challenges/world-02)
 
 ### 📝 Mundo 3
 
