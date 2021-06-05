@@ -58,13 +58,13 @@ Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do
 ⚙️ [Desafio 12 – Calculando Descontos](./challenges/challenge012.py)
 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço com 5% de desconto.
 
-⚙️ [Desafio 13 – Reajuste Salarial]((./challenges/challenge013.py))
+⚙️ [Desafio 13 – Reajuste Salarial](./challenges/challenge013.py)
 - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento
 
-⚙️ [Desafio 14 – Conversor de Temperaturas]((./challenges/challenge014.py))
+⚙️ [Desafio 14 – Conversor de Temperaturas](./challenges/challenge014.py)
 - Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
 
-⚙️ [Desafio 15 – Aluguel de Carros]((./challenges/challenge015.py))
+⚙️ [Desafio 15 – Aluguel de Carros](./challenges/challenge015.py)
 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
 
