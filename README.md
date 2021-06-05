@@ -33,29 +33,29 @@ Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do
 ⚙️ [Desafio 04 - Dissecando uma Variável](./challenges/challenge004.py)
 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-⚙️ [Desafio 05 – Antecessor e Sucessor]((./challenges/challenge005.py))
+⚙️ [Desafio 05 – Antecessor e Sucessor](./challenges/challenge005.py)
 - Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor
 
-⚙️ [Desafio 06 – Dobro, Triplo, Raiz Quadrada]((./challenges/challenge006.py))
+⚙️ [Desafio 06 – Dobro, Triplo, Raiz Quadrada](./challenges/challenge006.py)
 - Cria um algorítimo que leia um número e mosto o seu dobro, tripo e raiz quadrada.
 
-⚙️ [Desafio 07 – Média Aritmética]((./challenges/challenge007.py))
+⚙️ [Desafio 07 – Média Aritmética](./challenges/challenge007.py)
 - Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média
 
-⚙️ [Desafio 08 – Conversor de Medidas]((./challenges/challenge008.py))
+⚙️ [Desafio 08 – Conversor de Medidas](./challenges/challenge008.py)
 - Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros
 
-⚙️ [Desafio 09 – Tabuada]((./challenges/challenge009.py))
+⚙️ [Desafio 09 – Tabuada](./challenges/challenge009.py)
 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada
 
-⚙️ [Desafio 10 – Conversor de Moedas]((./challenges/challenge010.py))
+⚙️ [Desafio 10 – Conversor de Moedas](./challenges/challenge010.py)
 - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar
 - Considere US$ 1.00 = R$3,27
 
-⚙️ [Desafio 11 – Pintando Parede]((./challenges/challenge011.py))
+⚙️ [Desafio 11 – Pintando Parede](./challenges/challenge011.py)
 - Faça um programa que leia a largura e altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
 
-⚙️ [Desafio 12 – Calculando Descontos]((./challenges/challenge012.py))
+⚙️ [Desafio 12 – Calculando Descontos](./challenges/challenge012.py)
 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço com 5% de desconto.
 
 ⚙️ [Desafio 13 – Reajuste Salarial]((./challenges/challenge013.py))
