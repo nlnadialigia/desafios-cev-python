@@ -105,6 +105,99 @@
   - qual é o nome do homem mais velho e
   - quantas mulheres têm menos de 20 anos.
 
+⚙️ [Desafio 57 - Validação de Dados](./challenges/world-02/challenge057.py)
+- Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
+
+⚙️ [Desafio 58 - Jogo da Adivinhação v2.0](./challenges/world-02/challenge058.py)
+- Melhore o jogo do DESAFIO 028 onde o computador vai "pensar" em um número entre 0 e 10. 
+- Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+
+⚙️ [Desafio 59 - Criando um Menu de Opções](./challenges/world-02/challenge059.py)
+- Crie um programa que leia dois valores e mostre um menu na tela:
+  [ 1 ] somar<br>
+  [ 2 ] multiplicar<br>
+  [ 3 ] maior<br>
+  [ 4 ] novos números<br>
+  [ 5 ] sair do programa
+- Seu programa deverá realizar a operação solicitada em cada caso.
+
+⚙️ [Desafio 60 - Cálculo do Fatorial](./challenges/world-02/challenge060.py)
+- Faça um programa que leia um número qualquer e mostre o seu fatorial.
+- Faça com `while` e com `for`<br>
+  *Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120*
+
+⚙️ [Desafio 61 - Progressão Aritmética v.2.0](./challenges/world-02/challenge061.py)
+- Refaça o DESAFIO 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura `while`.
+
+⚙️ [Desafio 62 - Super Progressão Aritmética v.3.0](./challenges/world-02/challenge062.py)
+- Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostrar mais alguns termos. 
+- O programa encerrará quando ele disser que quer mostrar 0 termos.
+
+⚙️ [Desafio 63 - Sequência de Fibonacci v1.0](./challenges/world-02/challenge063.py)
+- Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma `Sequência de Fibonacci`.<br>
+  *Exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34*
+
+⚙️ [Desafio 64 - Tratando vários valores v1.0](./challenges/world-02/challenge064.py)
+- Crie um programa que leia vários números inteiros pelo teclado. 
+- O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. 
+- No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o `flag(999)`).
+
+⚙️ [Desafio 65 - Maior e Menor valores](./challenges/world-02/challenge065.py)
+- Crie um programa que leia vários números inteiros pelo teclado. 
+- No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. 
+- O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
+
+⚙️ [Desafio 66 - Vários números com flag](./challenges/world-02/challenge066.py)
+- Crie um programa que leia números inteiros pelo teclado. 
+- O programa só vai parar quando o usuário digitar o valor **999**, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre elas (desconsiderando o flag).
+- Mostre também quantos valores foram digitados.
+
+⚙️ [Desafio 67 - Tabuada v3.0](./challenges/world-02/challenge067.py)
+- Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. 
+- O programa será interrompido quando o número solicitado for **negativo**.
+
+```python
+Quer ver a tabuada de qual valor?
+
+PROGRAMA TABUADA ENCERRADO. VOLTE SEMPRE!
+```
+
+⚙️ [Desafio 68 - Jogo do Par ou Ímpar](./challenges/world-02/challenge068.py)
+- Faça um programa que jogue par ou ímpar com o computador. 
+- O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+
+  ```python
+  VAMOS JOGAR PAR OU ÍMPAR
+  Diga um valor:
+  Par ou Ímpar? [P/I]
+
+  Você jogou {} e o cumputador {}. Total de {} deu {PAR/IMPAR}
+
+  Você VENCEU!
+  Vamos jogar novamente...
+
+  GAME OVER.
+  Você venceu {} vezes
+  ```
+
+⚙️ [Desafio 69 - Análise de dados do grupo](./challenges/world-02/challenge069.py)
+- Crie um programa que leia a idade e o sexo de várias pessoas. 
+- A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:<br>
+  A) quantas pessoas tem mais de 18 anos.<br>
+  B) quantos homens foram cadastrados.<br>
+  C) quantas mulheres tem menos de 20 anos.
+
+⚙️ [Desafio 70 - Estatísticas em produtos](./challenges/world-02/challenge070.py)
+- Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar ou não. No final, mostre:<br>
+  A) qual é o total gasto na compra.<br>
+  B) quantos produtos custam mais de R$1000.<br>
+  C) qual é o nome do produto mais barato.
+
+⚙️ [Desafio 71 - Simulador de Caixa Eletrônico](./challenges/world-02/challenge071.py)
+- Crie um programa que simule o funcionamento de um caixa eletrônico. 
+- No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
+*OBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.*
+
 # 👩‍💼 Author
 <img src="../../.github/picture.png" width="100px;" alt="Picture"/>
 <p><b>Nádia Ligia, budding back-end developer.</b></p>
