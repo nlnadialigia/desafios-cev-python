@@ -78,24 +78,29 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 85 - Listas com pares e ímpares](./challenge085.py)
 - Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. 
 - No final, mostre os valores pares e ímpares em ordem crescente.
+- [Resolução do Professor](./challenge085P.py)
 
 ⚙️ [Desafio 86 - Matriz em Python](./challenge086.py)
 - Crie um programa que declare uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.
+- [Resolução do Professor](./challenge086P.py)
 
 ⚙️ [Desafio 87 - Mais sobre Matriz em Python](./challenge087.py)
 - Aprimore o desafio anterior, mostrando no final: <br>
   A) A soma de todos os valores pares digitados.<br>
   B) A soma dos valores da terceira coluna.<br>
   C) O maior valor da segunda linha.
+- [Resolução do Professor](./challenge087P.py)
 
 ⚙️ [Desafio 88 - Palpites para a Mega Sena](./challenge088.py)
 - Faça um programa que ajude um jogador da MEGA SENA a criar palpites.
 - O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
   - utilizar time entre os jogos
+- [Resolução do Professor](./challenge088P.py)
 
 ⚙️ [Desafio 89 - Boletim com listas compostas](./challenge089.py)
 - Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. 
 - No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
+- [Resolução do Professor](./challenge089P.py)
 
 [comment]: <> (⚙️ [Desafio 90 - Dicionário em Python]&#40;./challenge090.py&#41;)
 
