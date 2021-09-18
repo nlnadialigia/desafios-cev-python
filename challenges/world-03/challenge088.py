@@ -20,7 +20,7 @@ sleep(1)
 for n in range(0, qtde_games):
     for i in range(0, 6):
         game.append(randint(1, 61))
-    print(f'Jogo {n+1}: {game}')
+    print(f'Jogo {n+1}: {game}'.center(50))
     game = list()
     sleep(1)
 
