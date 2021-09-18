@@ -3,11 +3,11 @@
 </p>
 <h1 align="center">MUNDO 3</h1>
 
-⚙️ [Desafio 72 - Número por Extenso](./challenges/world-03/challenge072.py)
+⚙️ [Desafio 72 - Número por Extenso](./challenge072.py)
 - Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte. 
 - Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
 
-⚙️ [Desafio 73 - Tuplas com Times de Futebol](./challenges/world-03/challenge073.py)
+⚙️ [Desafio 73 - Tuplas com Times de Futebol](./challenge073.py)
 - Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. 
 - Depois mostre:<br>
   a) Os 5 primeiros times.<br>
@@ -15,18 +15,18 @@
   c) Times em ordem alfabética.<br>
   d) Em que posição está o time da Chapecoense. ⁉️ ⇒ troquei para Fluminense porque não tem Chapecoense em 2020
 
-⚙️ [Desafio 74 - Maior e menor valores em Tupla](./challenges/world-03/challenge074.py)
+⚙️ [Desafio 74 - Maior e menor valores em Tupla](./challenge074.py)
 - Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. 
 - Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
 
-⚙️ [Desafio 75 - Análise de dados em uma Tupla](./challenges/world-03/challenge075.py)
+⚙️ [Desafio 75 - Análise de dados em uma Tupla](./challenge075.py)
 - Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. 
 - No final, mostre:<br>
   A) Quantas vezes apareceu o valor 9.<br>
   B) Em que posição foi digitado o primeiro valor 3.<br>
   C) Quais foram os números pares.
 
-⚙️ [Desafio 76 - Lista de Preços com Tupla](./challenges/world-03/challenge076.py)
+⚙️ [Desafio 76 - Lista de Preços com Tupla](./challenge076.py)
 - Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. 
 - No final, mostre uma listagem de preços, organizando os dados em forma tabular.
 
@@ -34,178 +34,234 @@
 lista = ('Lapis', 10, 'Caneta', 20)
 ```
 
-⚙️ [Desafio 77 - Contando vogais em Tupla](./challenges/world-03/challenge077.py)
+⚙️ [Desafio 77 - Contando vogais em Tupla](./challenge077.py)
 - Crie um programa que tenha uma tupla com várias palavras (não usar acentos). 
 - Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
 
-⚙️ [Desafio 78 - Maior e Menor valores na Lista](./challenges/world-03/challenge078.py)
+⚙️ [Desafio 78 - Maior e Menor valores na Lista](./challenge078.py)
 - Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. 
 - No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
 
-⚙️ [Desafio 79 - Valores únicos em uma Lista](./challenges/world-03/challenge079.py)
+⚙️ [Desafio 79 - Valores únicos em uma Lista](./challenge079.py)
 - Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. 
 - Caso o número já exista lá dentro, ele não será adicionado. 
 - No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
-⚙️ [Desafio 80 - Lista ordenada sem repetições ⁉️](./challenges/world-03/challenge080.py)
+⚙️ [Desafio 80 - Lista ordenada sem repetições ⁉️](./challenge080.py)
 - Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). 
 - No final, mostre a lista ordenada na tela.
 
-⚙️ [Desafio 81 - Extraindo dados de uma Lista](./challenges/world-03/challenge081.py)
+⚙️ [Desafio 81 - Extraindo dados de uma Lista](./challenge081.py)
 - Crie um programa que vai ler vários números e colocar em uma lista. 
 - Depois disso, mostre:<br>
   A) Quantos números foram digitados.<br>
   B) A lista de valores, ordenada de forma decrescente.<br>
   C) Se o valor 5 foi digitado e está ou não na lista.
 
-⚙️ [Desafio 82 - Dividindo valores em várias listas](./challenges/world-03/challenge082.py)
+⚙️ [Desafio 82 - Dividindo valores em várias listas](./challenge082.py)
 - Crie um programa que vai ler vários números e colocar em uma lista. 
 - Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. 
 - Ao final, mostre o conteúdo das três listas geradas.
 
-⚙️ [Desafio 83 - Validando expressões matemáticas](./challenges/world-03/challenge083.py)
+⚙️ [Desafio 83 - Validando expressões matemáticas](./challenge083.py)
 - Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. 
 - Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
-⚙️ [Desafio 84 - Lista composta e análise de dados](./challenges/world-03/challenge084.py)
+⚙️ [Desafio 84 - Lista composta e análise de dados](./challenge084.py)
 - Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. 
 - No final, mostre:<br>
   A) Quantas pessoas foram cadastradas.<br>
   B) Uma listagem com as pessoas mais pesadas.<br>
   C) Uma listagem com as pessoas mais leves.
+- [Resolução do Professor](./challenge084P.py)
 
-⚙️ [Desafio 85 - Listas com pares e ímpares](./challenges/world-03/challenge085.py)
+⚙️ [Desafio 85 - Listas com pares e ímpares](./challenge085.py)
 - Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. 
 - No final, mostre os valores pares e ímpares em ordem crescente.
 
-⚙️ [Desafio 86 - Matriz em Python](./challenges/world-03/challenge086.py)
+⚙️ [Desafio 86 - Matriz em Python](./challenge086.py)
 - Crie um programa que declare uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.
 
-⚙️ [Desafio 87 - Mais sobre Matriz em Python](./challenges/world-03/challenge087.py)
+⚙️ [Desafio 87 - Mais sobre Matriz em Python](./challenge087.py)
 - Aprimore o desafio anterior, mostrando no final: <br>
   A) A soma de todos os valores pares digitados.<br>
   B) A soma dos valores da terceira coluna.<br>
   C) O maior valor da segunda linha.
 
-⚙️ [Desafio 88 - Palpites para a Mega Sena](./challenges/world-03/challenge088.py)
+⚙️ [Desafio 88 - Palpites para a Mega Sena](./challenge088.py)
 - Faça um programa que ajude um jogador da MEGA SENA a criar palpites.
 - O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
   - utilizar time entre os jogos
 
-⚙️ [Desafio 89 - Boletim com listas compostas](./challenges/world-03/challenge089.py)
+⚙️ [Desafio 89 - Boletim com listas compostas](./challenge089.py)
 - Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. 
 - No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
 
-⚙️ [Desafio 90 - Dicionário em Python](./challenges/world-03/challenge090.py)
-- Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. 
-- No final, mostre o conteúdo da estrutura na tela.
+[comment]: <> (⚙️ [Desafio 90 - Dicionário em Python]&#40;./challenge090.py&#41;)
 
-⚙️ [Desafio 91 - Jogo de Dados em Python](./challenges/world-03/challenge091.py)
-- Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. 
-- No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
+[comment]: <> (- Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. )
 
-⚙️ [Desafio 92 - Cadastro de Trabalhador em Python](./challenges/world-03/challenge092.py)
-- Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o (com idade) em um dicionário. 
-- Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. 
-- Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
+[comment]: <> (- No final, mostre o conteúdo da estrutura na tela.)
 
-⚙️ [Desafio 93 - Cadastro de Jogador de Futebol](./challenges/world-03/challenge093.py)
-- Crie um programa que gerencie o aproveitamento de um jogador de futebol. 
-- O programa vai ler o nome do jogador e quantas partidas ele jogou. 
-- Depois vai ler a quantidade de gols feitos em cada partida. 
-- No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
+[comment]: <> (⚙️ [Desafio 91 - Jogo de Dados em Python]&#40;./challenge091.py&#41;)
 
-⚙️ [Desafio 94 - Unindo dicionários e listas](./challenges/world-03/challenge094.py)
-- Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. 
-- No final, mostre: <br>
-  A) Quantas pessoas foram cadastradas<br>
-  B) A média de idade<br>
-  C) Uma lista com as mulheres<br>
-  D) Uma lista de pessoas com idade acima da média
+[comment]: <> (- Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. )
 
-⚙️ [Desafio 95 - Aprimorando os Dicionários](./challenges/world-03/challenge095.py)
-- Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+[comment]: <> (- No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.)
 
-⚙️ [Desafio 96 - Função que calcula área](./challenges/world-03/challenge096.py)
-- Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+[comment]: <> (⚙️ [Desafio 92 - Cadastro de Trabalhador em Python]&#40;./challenge092.py&#41;)
 
-⚙️ [Desafio 97 - Um print especial](./challenges/world-03/challenge097.py)
-- Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
+[comment]: <> (- Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o &#40;com idade&#41; em um dicionário. )
 
-⚙️ [Desafio 98 - Função de Contador](./challenges/world-03/challenge098.py)
-- Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo. 
-- Seu programa tem que realizar três contagens através da função criada:<br>
-  a) de 1 até 10, de 1 em 1<br>
-  b) de 10 até 0, de 2 em 2<br>
-  c) uma contagem personalizada
+[comment]: <> (- Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. )
 
-⚙️ [Desafio 99 - Função que descobre o maior](./challenges/world-03/challenge099.py)
-- Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. 
-- Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
+[comment]: <> (- Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.)
 
-⚙️ [Desafio 100 - Funções para sortear e somar](./challenges/world-03/challenge100.py)
-- Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). 
-- A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
+[comment]: <> (⚙️ [Desafio 93 - Cadastro de Jogador de Futebol]&#40;./challenge093.py&#41;)
 
-⚙️ [Desafio 101 - Funções para votação](./challenges/world-03/challenge101.py)
-- Crie um programa que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL e OBRIGATÓRIO nas eleições.
+[comment]: <> (- Crie um programa que gerencie o aproveitamento de um jogador de futebol. )
 
-⚙️ [Desafio 102 - Função para Fatorial](./challenges/world-03/challenge102.py)
-- Crie um programa que tenha uma função fatorial() que receba dois parâmetros: o primeiro que indique o número a calcular e outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
+[comment]: <> (- O programa vai ler o nome do jogador e quantas partidas ele jogou. )
 
-⚙️ [Desafio 103 - Ficha do Jogador](./challenges/world-03/challenge103.py)
-- Faça um programa que tenha uma função chamada ficha(), que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. 
-- O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
+[comment]: <> (- Depois vai ler a quantidade de gols feitos em cada partida. )
 
-⚙️ [Desafio 104 - Validando entrada de dados em Python](./challenges/world-03/challenge104.py)
-- Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante 'a função input() do Python, só que fazendo a validação para aceitar apenas um valor numérico.
-  *Ex: n = leiaInt('Digite um n: ')*
+[comment]: <> (- No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.)
 
-⚙️ [Desafio 105 - Analisando e gerando Dicionários](./challenges/world-03/challenge105.py)
-- Faça um programa que tenha uma função notas() que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:
+[comment]: <> (⚙️ [Desafio 94 - Unindo dicionários e listas]&#40;./challenge094.py&#41;)
 
-⚙️ [Desafio 106 - Sistema interativo de ajuda em Python](./challenges/world-03/challenge106.py)
-- Faça um mini-sistema que utilize o Interactive Help do Python. 
-- O usuário vai digitar o comando e o manual vai aparecer. 
-- Quando o usuário digitar a palavra 'FIM', o programa se encerrará. 
-- Importante: use cores.
+[comment]: <> (- Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. )
 
-⚙️ [Desafio 107 - Exercitando módulos em Python](./challenges/world-03/challenge107.py)
-- Crie um módulo chamado `moeda.py` que tenha as funções incorporadas aumentar(), diminuir(), dobro() e metade(). 
-- Faça também um programa que importe esse módulo e use algumas dessas funções.
+[comment]: <> (- No final, mostre: <br>)
 
-⚙️ [Desafio 108 - Formatando Moedas em Python](./challenges/world-03/challenge108.py)
-- Adapte o código do desafio 107, criando uma função adicional chamada moeda() que consiga mostrar os números como um valor monetário formatado.
+[comment]: <> (  A&#41; Quantas pessoas foram cadastradas<br>)
 
-⚙️ [Desafio 109 - Formatando Moedas em Python](./challenges/world-03/challenge109.py)
-- Modifique as funções que form criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvida no desafio 108.
+[comment]: <> (  B&#41; A média de idade<br>)
 
-⚙️ [Desafio 110 - Reduzindo ainda mais seu programa](./challenges/world-03/challenge110.py)
-- Adicione o módulo `moeda.py` criado nos desafios anteriores, uma função chamada resumo(), que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
+[comment]: <> (  C&#41; Uma lista com as mulheres<br>)
 
-⚙️ [Desafio 111 - Transformando módulos em pacotes](./challenges/world-03/challenge111.py)
-- Crie um pacote chamado utilidadesCeV que tenha dois módulos internos chamados moeda e dado. 
-- Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
+[comment]: <> (  D&#41; Uma lista de pessoas com idade acima da média)
 
-⚙️ [Desafio 112 - Entrada de dados monetários](./challenges/world-03/challenge112.py)
-- Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. 
-- Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função imputa(), mas com uma validação de dados para aceitar apenas valores que seja monetários.
+[comment]: <> (⚙️ [Desafio 95 - Aprimorando os Dicionários]&#40;./challenge095.py&#41;)
 
-⚙️ [Desafio 113 - Funções aprofundadas em Python](./challenges/world-03/challenge113.py)
-- Reescreva a função leiaInt() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. 
-- Aproveite e crie também uma função leiaFloat() com a mesma funcionalidade.
+[comment]: <> (- Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.)
 
-⚙️ [Desafio 114 - Site está acessível?](./challenges/world-03/challenge114.py)
-- Crie um código em Python que teste se o site pudim está acessível pelo computador usado.
+[comment]: <> (⚙️ [Desafio 96 - Função que calcula área]&#40;./challenge096.py&#41;)
 
-⚙️ [Desafio 115a - Criando um menu em Python](./challenges/world-03/challenge115a.py)
-- Vamos criar um menu em Python, usando modularização.
+[comment]: <> (- Faça um programa que tenha uma função chamada área&#40;&#41;, que receba as dimensões de um terreno retangular &#40;largura e comprimento&#41; e mostre a área do terreno.)
 
-⚙️ [Desafio 115b - Arquivos com Python](./challenges/world-03/challenge115b.py)
-- Vamos ver como fazer acesso a arquivos usando o Python.
+[comment]: <> (⚙️ [Desafio 97 - Um print especial]&#40;./challenge097.py&#41;)
 
-⚙️ [Desafio 115c - Finalizando o projeto](./challenges/world-03/challenge115c.py)
-- Vamos finalizar o projeto de acesso a arquivos em Python.
+[comment]: <> (- Faça um programa que tenha uma função chamada escreva&#40;&#41;, que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.)
+
+[comment]: <> (⚙️ [Desafio 98 - Função de Contador]&#40;./challenge098.py&#41;)
+
+[comment]: <> (- Faça um programa que tenha uma função chamada contador&#40;&#41;, que receba três parâmetros: início, fim e passo. )
+
+[comment]: <> (- Seu programa tem que realizar três contagens através da função criada:<br>)
+
+[comment]: <> (  a&#41; de 1 até 10, de 1 em 1<br>)
+
+[comment]: <> (  b&#41; de 10 até 0, de 2 em 2<br>)
+
+[comment]: <> (  c&#41; uma contagem personalizada)
+
+[comment]: <> (⚙️ [Desafio 99 - Função que descobre o maior]&#40;./challenge099.py&#41;)
+
+[comment]: <> (- Faça um programa que tenha uma função chamada maior&#40;&#41;, que receba vários parâmetros com valores inteiros. )
+
+[comment]: <> (- Seu programa tem que analisar todos os valores e dizer qual deles é o maior.)
+
+[comment]: <> (⚙️ [Desafio 100 - Funções para sortear e somar]&#40;./challenge100.py&#41;)
+
+[comment]: <> (- Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia&#40;&#41; e somaPar&#40;&#41;. )
+
+[comment]: <> (- A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.)
+
+[comment]: <> (⚙️ [Desafio 101 - Funções para votação]&#40;./challenge101.py&#41;)
+
+[comment]: <> (- Crie um programa que tenha uma função chamada voto&#40;&#41; que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL e OBRIGATÓRIO nas eleições.)
+
+[comment]: <> (⚙️ [Desafio 102 - Função para Fatorial]&#40;./challenge102.py&#41;)
+
+[comment]: <> (- Crie um programa que tenha uma função fatorial&#40;&#41; que receba dois parâmetros: o primeiro que indique o número a calcular e outro chamado show, que será um valor lógico &#40;opcional&#41; indicando se será mostrado ou não na tela o processo de cálculo do fatorial.)
+
+[comment]: <> (⚙️ [Desafio 103 - Ficha do Jogador]&#40;./challenge103.py&#41;)
+
+[comment]: <> (- Faça um programa que tenha uma função chamada ficha&#40;&#41;, que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. )
+
+[comment]: <> (- O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.)
+
+[comment]: <> (⚙️ [Desafio 104 - Validando entrada de dados em Python]&#40;./challenge104.py&#41;)
+
+[comment]: <> (- Crie um programa que tenha a função leiaInt&#40;&#41;, que vai funcionar de forma semelhante 'a função input&#40;&#41; do Python, só que fazendo a validação para aceitar apenas um valor numérico.)
+
+[comment]: <> (  *Ex: n = leiaInt&#40;'Digite um n: '&#41;*)
+
+[comment]: <> (⚙️ [Desafio 105 - Analisando e gerando Dicionários]&#40;./challenge105.py&#41;)
+
+[comment]: <> (- Faça um programa que tenha uma função notas&#40;&#41; que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:)
+
+[comment]: <> (⚙️ [Desafio 106 - Sistema interativo de ajuda em Python]&#40;./challenge106.py&#41;)
+
+[comment]: <> (- Faça um mini-sistema que utilize o Interactive Help do Python. )
+
+[comment]: <> (- O usuário vai digitar o comando e o manual vai aparecer. )
+
+[comment]: <> (- Quando o usuário digitar a palavra 'FIM', o programa se encerrará. )
+
+[comment]: <> (- Importante: use cores.)
+
+[comment]: <> (⚙️ [Desafio 107 - Exercitando módulos em Python]&#40;./challenge107.py&#41;)
+
+[comment]: <> (- Crie um módulo chamado `moeda.py` que tenha as funções incorporadas aumentar&#40;&#41;, diminuir&#40;&#41;, dobro&#40;&#41; e metade&#40;&#41;. )
+
+[comment]: <> (- Faça também um programa que importe esse módulo e use algumas dessas funções.)
+
+[comment]: <> (⚙️ [Desafio 108 - Formatando Moedas em Python]&#40;./challenge108.py&#41;)
+
+[comment]: <> (- Adapte o código do desafio 107, criando uma função adicional chamada moeda&#40;&#41; que consiga mostrar os números como um valor monetário formatado.)
+
+[comment]: <> (⚙️ [Desafio 109 - Formatando Moedas em Python]&#40;./challenge109.py&#41;)
+
+[comment]: <> (- Modifique as funções que form criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda&#40;&#41;, desenvolvida no desafio 108.)
+
+[comment]: <> (⚙️ [Desafio 110 - Reduzindo ainda mais seu programa]&#40;./challenge110.py&#41;)
+
+[comment]: <> (- Adicione o módulo `moeda.py` criado nos desafios anteriores, uma função chamada resumo&#40;&#41;, que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.)
+
+[comment]: <> (⚙️ [Desafio 111 - Transformando módulos em pacotes]&#40;./challenge111.py&#41;)
+
+[comment]: <> (- Crie um pacote chamado utilidadesCeV que tenha dois módulos internos chamados moeda e dado. )
+
+[comment]: <> (- Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.)
+
+[comment]: <> (⚙️ [Desafio 112 - Entrada de dados monetários]&#40;./challenge112.py&#41;)
+
+[comment]: <> (- Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. )
+
+[comment]: <> (- Crie uma função chamada leiaDinheiro&#40;&#41; que seja capaz de funcionar como a função imputa&#40;&#41;, mas com uma validação de dados para aceitar apenas valores que seja monetários.)
+
+[comment]: <> (⚙️ [Desafio 113 - Funções aprofundadas em Python]&#40;./challenge113.py&#41;)
+
+[comment]: <> (- Reescreva a função leiaInt&#40;&#41; que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. )
+
+[comment]: <> (- Aproveite e crie também uma função leiaFloat&#40;&#41; com a mesma funcionalidade.)
+
+[comment]: <> (⚙️ [Desafio 114 - Site está acessível?]&#40;./challenge114.py&#41;)
+
+[comment]: <> (- Crie um código em Python que teste se o site pudim está acessível pelo computador usado.)
+
+[comment]: <> (⚙️ [Desafio 115a - Criando um menu em Python]&#40;./challenge115a.py&#41;)
+
+[comment]: <> (- Vamos criar um menu em Python, usando modularização.)
+
+[comment]: <> (⚙️ [Desafio 115b - Arquivos com Python]&#40;./challenge115b.py&#41;)
+
+[comment]: <> (- Vamos ver como fazer acesso a arquivos usando o Python.)
+
+[comment]: <> (⚙️ [Desafio 115c - Finalizando o projeto]&#40;./challenge115c.py&#41;)
+
+[comment]: <> (- Vamos finalizar o projeto de acesso a arquivos em Python.)
 
 # 👩‍💼 Author
 <img src="../../.github/picture.png" width="100px;" alt="Picture"/>
