@@ -6,6 +6,8 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/desafios-cev-python?color=2541b2&style=plastic">
 
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/desafios-cev-python?color=2541b2&style=plastic">
+
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nlnadialigia/desafios-cev-python?color=2541b2&logoColor=2541b2&style=plastic">
   
   <a href="./LICENSE.md">
   <img alt="GitHub" src="https://img.shields.io/github/license/nlnadialigia/desafios-cev-python?color=2541b2&style=plastic">
@@ -15,15 +17,17 @@
 
 # 📌 Sobre
 
-Repositório dos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do [Curso em Vídeo](https://www.cursoemvideo.com/)
+Repositório dos exemplos desafios desenvolvidos no Mundo 1, 2 e 3 no Curso de Python3 do [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 # 📌 Índice
 
-### 📝 [Mundo 1](./challenges/world-01)
+### 📝 [Exemplos](./examples)
 
-### 📝 [Mundo 2](./challenges/world-02)
+### 📝 [Desafios - Mundo 1](./challenges/world-01)
 
-### 📝 [Mundo 3](./challenges/world-03)
+### 📝 [Desafios - Mundo 2](./challenges/world-02)
+
+### 📝 [Desafios - Mundo 3](./challenges/world-03)
 
 
 # 👩‍💼 Author
