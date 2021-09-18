@@ -73,7 +73,13 @@ Exemplos desenvolvidos nas aulas teóricas do curso.
   - `x = list(range(4, 11))` ⇒ lista ordenada de 4 a 10
 
 ### ⚙️ Aula 19 - Dicionários 
+- Os dicionários são variáveis compostas que permitem armazenar vários valores em uma mesma estrutura, acessíveis por chaves literais.
 
+  **Alguns comandos:**
+  - `del dados['idade']` => remove o elemento idade
+  - `x.values()` => identifica o valor do elemento
+  - `x.keys()` => identfica a chave do elemento
+  - `x.items()` => identifica o elemento
 
 ### ⚙️ Aula 20 e 21 - Funções
 
