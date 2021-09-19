@@ -101,54 +101,53 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. 
 - No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
 - [Resolução do Professor](./challenge089P.py)
+⚙️ [Desafio 90 - Dicionário em Python](./challenge090.py)
 
-[comment]: <> (⚙️ [Desafio 90 - Dicionário em Python]&#40;./challenge090.py&#41;)
+- Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. 
 
-[comment]: <> (- Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. )
+- No final, mostre o conteúdo da estrutura na tela.
 
-[comment]: <> (- No final, mostre o conteúdo da estrutura na tela.)
+⚙️ [Desafio 91 - Jogo de Dados em Python](./challenge091.py)
 
-[comment]: <> (⚙️ [Desafio 91 - Jogo de Dados em Python]&#40;./challenge091.py&#41;)
+- Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. 
 
-[comment]: <> (- Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. )
+- No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
 
-[comment]: <> (- No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.)
+⚙️ [Desafio 92 - Cadastro de Trabalhador em Python](./challenge092.py)
 
-[comment]: <> (⚙️ [Desafio 92 - Cadastro de Trabalhador em Python]&#40;./challenge092.py&#41;)
+- Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o (com idade) em um dicionário. 
 
-[comment]: <> (- Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o &#40;com idade&#41; em um dicionário. )
+- Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. 
 
-[comment]: <> (- Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. )
+- Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
 
-[comment]: <> (- Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.)
+⚙️ [Desafio 93 - Cadastro de Jogador de Futebol](./challenge093.py)
 
-[comment]: <> (⚙️ [Desafio 93 - Cadastro de Jogador de Futebol]&#40;./challenge093.py&#41;)
+- Crie um programa que gerencie o aproveitamento de um jogador de futebol. 
 
-[comment]: <> (- Crie um programa que gerencie o aproveitamento de um jogador de futebol. )
+- O programa vai ler o nome do jogador e quantas partidas ele jogou. 
 
-[comment]: <> (- O programa vai ler o nome do jogador e quantas partidas ele jogou. )
+- Depois vai ler a quantidade de gols feitos em cada partida. 
 
-[comment]: <> (- Depois vai ler a quantidade de gols feitos em cada partida. )
+- No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
 
-[comment]: <> (- No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.)
+⚙️ [Desafio 94 - Unindo dicionários e listas](./challenge094.py)
 
-[comment]: <> (⚙️ [Desafio 94 - Unindo dicionários e listas]&#40;./challenge094.py&#41;)
+- Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. 
 
-[comment]: <> (- Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. )
+- No final, mostre: <br>
 
-[comment]: <> (- No final, mostre: <br>)
+  A) Quantas pessoas foram cadastradas<br>
 
-[comment]: <> (  A&#41; Quantas pessoas foram cadastradas<br>)
+  B) A média de idade<br>
 
-[comment]: <> (  B&#41; A média de idade<br>)
+  C) Uma lista com as mulheres<br>
 
-[comment]: <> (  C&#41; Uma lista com as mulheres<br>)
+  D) Uma lista de pessoas com idade acima da média
 
-[comment]: <> (  D&#41; Uma lista de pessoas com idade acima da média)
+⚙️ [Desafio 95 - Aprimorando os Dicionários](./challenge095.py)
 
-[comment]: <> (⚙️ [Desafio 95 - Aprimorando os Dicionários]&#40;./challenge095.py&#41;)
-
-[comment]: <> (- Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.)
+- Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
 
 [comment]: <> (⚙️ [Desafio 96 - Função que calcula área]&#40;./challenge096.py&#41;)
 
