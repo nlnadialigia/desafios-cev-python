@@ -101,55 +101,45 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. 
 - No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
 - [Resolução do Professor](./challenge089P.py)
+
+
 ⚙️ [Desafio 90 - Dicionário em Python](./challenge090.py)
-
 - Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. 
-
 - No final, mostre o conteúdo da estrutura na tela.
+- [Resolução do Professor](./challenge090P.py)
 
 ⚙️ [Desafio 91 - Jogo de Dados em Python](./challenge091.py)
-
-- Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. 
-
+- Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python.
 - No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
+- [Resolução do Professor](./challenge091P.py)
 
 ⚙️ [Desafio 92 - Cadastro de Trabalhador em Python](./challenge092.py)
-
-- Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o (com idade) em um dicionário. 
-
-- Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. 
-
+- Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o (com idade) em um dicionário.
+- Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário.
 - Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
+- [Resolução do Professor](./challenge092P.py)
 
 ⚙️ [Desafio 93 - Cadastro de Jogador de Futebol](./challenge093.py)
-
 - Crie um programa que gerencie o aproveitamento de um jogador de futebol. 
-
 - O programa vai ler o nome do jogador e quantas partidas ele jogou. 
-
 - Depois vai ler a quantidade de gols feitos em cada partida. 
-
 - No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
+- [Resolução do Professor](./challenge093P.py)
 
 ⚙️ [Desafio 94 - Unindo dicionários e listas](./challenge094.py)
-
 - Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. 
-
 - No final, mostre: <br>
-
   A) Quantas pessoas foram cadastradas<br>
-
   B) A média de idade<br>
-
   C) Uma lista com as mulheres<br>
-
   D) Uma lista de pessoas com idade acima da média
+- [Resolução do Professor](./challenge094P.py)
 
-⚙️ [Desafio 95 - Aprimorando os Dicionários](./challenge095.py)
-
+- ⚙️ [Desafio 95 - Aprimorando os Dicionários](./challenge095.py)
 - Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+- [Resolução do Professor](./challenge093P.py)
 
-[comment]: <> (⚙️ [Desafio 96 - Função que calcula área]&#40;./challenge096.py&#41;)
+- [comment]: <> (⚙️ [Desafio 96 - Função que calcula área]&#40;./challenge096.py&#41;)
 
 [comment]: <> (- Faça um programa que tenha uma função chamada área&#40;&#41;, que receba as dimensões de um terreno retangular &#40;largura e comprimento&#41; e mostre a área do terreno.)
 
