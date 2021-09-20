@@ -82,13 +82,19 @@ Exemplos desenvolvidos nas aulas teóricas do curso.
   - `x.items()` => identifica o elemento
 
 ### ⚙️ Aula 20 e 21 - Funções
-
+- Funções são trechos de código que podem ser executados em momentos diferentes de nossos códigos em Python.****************
+- vinculadas a palavra rotina ⇒ algo que se faz constantemente
+- `def xxx()` ⇒ definição de uma função
+- **empacotamento** ⇒ serão passados vários e serão jogados dentro do parâmetro
+  `def contador(*num):`
+- é possível utilizar as funções com lista também
+  `def dobra(lst):`
 
 ### ⚙️ Aula 22 - Módulos e Pacotes
 
 
 ### ⚙️ Aula 23 - Tratamento de erros e exceções
-
+************
 
 
 # 👩‍💼 Author
