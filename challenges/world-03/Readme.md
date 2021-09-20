@@ -139,37 +139,26 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
 - [Resolução do Professor](./challenge093P.py)
 
-- [comment]: <> (⚙️ [Desafio 96 - Função que calcula área]&#40;./challenge096.py&#41;)
+⚙️ [Desafio 96 - Função que calcula área](./challenge096.py)
+- Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
 
-[comment]: <> (- Faça um programa que tenha uma função chamada área&#40;&#41;, que receba as dimensões de um terreno retangular &#40;largura e comprimento&#41; e mostre a área do terreno.)
+⚙️ [Desafio 97 - Um print especial](./challenge097.py)
+- Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
 
-[comment]: <> (⚙️ [Desafio 97 - Um print especial]&#40;./challenge097.py&#41;)
+⚙️ [Desafio 98 - Função de Contador](./challenge098.py)
+- Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo. 
+- Seu programa tem que realizar três contagens através da função criada:<br>
+  a) de 1 até 10, de 1 em 1<br>
+  b) de 10 até 0, de 2 em 2<br>
+  c) uma contagem personalizada
 
-[comment]: <> (- Faça um programa que tenha uma função chamada escreva&#40;&#41;, que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.)
+⚙️ [Desafio 99 - Função que descobre o maior](./challenge099.py)
+- Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. 
+- Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 
-[comment]: <> (⚙️ [Desafio 98 - Função de Contador]&#40;./challenge098.py&#41;)
-
-[comment]: <> (- Faça um programa que tenha uma função chamada contador&#40;&#41;, que receba três parâmetros: início, fim e passo. )
-
-[comment]: <> (- Seu programa tem que realizar três contagens através da função criada:<br>)
-
-[comment]: <> (  a&#41; de 1 até 10, de 1 em 1<br>)
-
-[comment]: <> (  b&#41; de 10 até 0, de 2 em 2<br>)
-
-[comment]: <> (  c&#41; uma contagem personalizada)
-
-[comment]: <> (⚙️ [Desafio 99 - Função que descobre o maior]&#40;./challenge099.py&#41;)
-
-[comment]: <> (- Faça um programa que tenha uma função chamada maior&#40;&#41;, que receba vários parâmetros com valores inteiros. )
-
-[comment]: <> (- Seu programa tem que analisar todos os valores e dizer qual deles é o maior.)
-
-[comment]: <> (⚙️ [Desafio 100 - Funções para sortear e somar]&#40;./challenge100.py&#41;)
-
-[comment]: <> (- Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia&#40;&#41; e somaPar&#40;&#41;. )
-
-[comment]: <> (- A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.)
+⚙️ [Desafio 100 - Funções para sortear e somar](./challenge100.py)
+- Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). 
+- A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
 
 [comment]: <> (⚙️ [Desafio 101 - Funções para votação]&#40;./challenge101.py&#41;)
 
