@@ -1,30 +1,7 @@
 from time import sleep
 
 
-def contador():
-    print('-=' * 50)
-    print('Contagem de 1 até 10 de 1 em 1')
-    n = 1
-    while n <= 10:
-        print(f'{n} ', end='')
-        sleep(0.5)
-        n += 1
-    print('FIM!')
-    print('-=' * 50)
-    print('Contagem de 10 até 0 de 2 em 2')
-    x = 10
-    while x >= 0:
-        print(f'{x} ', end='')
-        x -= 2
-        sleep(0.5)
-    print('FIM')
-    print('-=' * 50)
-    print('Agora é sua vez de personalizar a contagem!')
-    i = int(input('Início: '))
-    f = int(input('Fim: '))
-    p = int(input('Passo: '))
-    print('-=' * 50)
-
+def contador(i, f, p):
     # Passo negativo
     if p < 0:
         p *= (-1)
@@ -50,5 +27,12 @@ def contador():
     print('-=' * 50)
 
 
-contador()
+contador(1, 10, 1)
+contador(10, 0, 2)
+print('Agora é sua vez de personalizar a contagem!')
+inicio = int(input('Início: '))
+fim = int(input('Fim: '))
+passo = int(input('Passo: '))
+contador(inicio, fim, passo)
+
 
