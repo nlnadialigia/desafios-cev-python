@@ -90,6 +90,32 @@ Exemplos desenvolvidos nas aulas teóricas do curso.
 - é possível utilizar as funções com lista também
   `def dobra(lst):`
 
+- **Interactive Help**
+    - ajuda interativa às funções do python
+    - pode ser utilizada no console ou no pycharm
+    - `help(<nome da função>)`
+    - `print(<nome da função>.__doc__)`
+- **DocStrings**
+    - string de documentação
+    - a função `help()` demonstra a **docString** das funções do python
+    - Criação de uma **docString** para um função criada pelo usuário
+        - logo abaixo do comando `def` ⇒ abrir e fechar 3 x aspas duplas (")
+        - colocar as instruções da função
+       
+- **Parâmetros Opcionais**
+    - Para utilização de parâmetros opcionais, é só incluir um valor default para os parâmetros da função
+   
+- **Escopo de variáveis**
+    - escopo ⇒ local onde a variável existe
+    - escopo global ⇒ variável funciona dentro de fora das funções
+    - escopo local ⇒ variável definida dentro de uma função ⇒ só funciona dentro da função
+    - Caso a variável global seja declarada dentro da função com a palavra reservada `global` a mesma passa a ter o novo valor, mesmo fora da função
+
+- **Retorno de valores**
+    - As funções podem ou não retornar valor
+    - `return`
+    - Retornando uma função, é possível jogar dentro de uma variável ou diretamente no print
+
 ### ⚙️ Aula 22 - Módulos e Pacotes
 
 

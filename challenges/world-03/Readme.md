@@ -142,62 +142,51 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - [Resolução do Professor](./challenge095P.py)
 
 ⚙️ [Desafio 96 - Função que calcula área](./challenge096.py)
-- Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+- Faça um programa que tenha uma função chamada `área()`, que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
 - [Resolução do Professor](./challenge096P.py)
 
 ⚙️ [Desafio 97 - Um print especial](./challenge097.py)
-- Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
+- Faça um programa que tenha uma função chamada `escreva()`, que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
 
 
 ⚙️ [Desafio 98 - Função de Contador](./challenge098.py)
-- Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo. 
+- Faça um programa que tenha uma função chamada `contador()`, que receba três parâmetros: início, fim e passo. 
 - Seu programa tem que realizar três contagens através da função criada:<br>
   a) de 1 até 10, de 1 em 1<br>
   b) de 10 até 0, de 2 em 2<br>
   c) uma contagem personalizada
 
 ⚙️ [Desafio 99 - Função que descobre o maior](./challenge099.py)
-- Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. 
+- Faça um programa que tenha uma função chamada `maior()`, que receba vários parâmetros com valores inteiros. 
 - Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 
 ⚙️ [Desafio 100 - Funções para sortear e somar](./challenge100.py)
-- Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). 
+- Faça um programa que tenha uma lista chamada números e duas funções chamadas `sorteia()` e `somaPar()`. 
 - A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
 - [Resolução do Professor](./challenge100P.py)
 
-[comment]: <> (⚙️ [Desafio 101 - Funções para votação]&#40;./challenge101.py&#41;)
+⚙️ [Desafio 101 - Funções para votação](./challenge101.py)
+- Crie um programa que tenha uma função chamada `voto()` que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL e OBRIGATÓRIO nas eleições.
 
-[comment]: <> (- Crie um programa que tenha uma função chamada voto&#40;&#41; que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL e OBRIGATÓRIO nas eleições.)
+⚙️ [Desafio 102 - Função para Fatorial](./challenge102.py)
+- Crie um programa que tenha uma função `fatorial()` que receba dois parâmetros: o primeiro que indique o número a calcular e outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
 
-[comment]: <> (⚙️ [Desafio 102 - Função para Fatorial]&#40;./challenge102.py&#41;)
+⚙️ [Desafio 103 - Ficha do Jogador](./challenge103.py)
+- Faça um programa que tenha uma função chamada `ficha()`, que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. 
+- O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
 
-[comment]: <> (- Crie um programa que tenha uma função fatorial&#40;&#41; que receba dois parâmetros: o primeiro que indique o número a calcular e outro chamado show, que será um valor lógico &#40;opcional&#41; indicando se será mostrado ou não na tela o processo de cálculo do fatorial.)
+⚙️ [Desafio 104 - Validando entrada de dados em Python](./challenge104.py)
+- Crie um programa que tenha a função `leiaInt()`, que vai funcionar de forma semelhante à função `input()` do Python, só que fazendo a validação para aceitar apenas um valor numérico.
+  *Ex: `n = leiaInt('Digite um n: ')`*
 
-[comment]: <> (⚙️ [Desafio 103 - Ficha do Jogador]&#40;./challenge103.py&#41;)
+⚙️ [Desafio 105 - Analisando e gerando Dicionários](./challenge105.py)
+- Faça um programa que tenha uma função `notas()` que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:
 
-[comment]: <> (- Faça um programa que tenha uma função chamada ficha&#40;&#41;, que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. )
-
-[comment]: <> (- O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.)
-
-[comment]: <> (⚙️ [Desafio 104 - Validando entrada de dados em Python]&#40;./challenge104.py&#41;)
-
-[comment]: <> (- Crie um programa que tenha a função leiaInt&#40;&#41;, que vai funcionar de forma semelhante 'a função input&#40;&#41; do Python, só que fazendo a validação para aceitar apenas um valor numérico.)
-
-[comment]: <> (  *Ex: n = leiaInt&#40;'Digite um n: '&#41;*)
-
-[comment]: <> (⚙️ [Desafio 105 - Analisando e gerando Dicionários]&#40;./challenge105.py&#41;)
-
-[comment]: <> (- Faça um programa que tenha uma função notas&#40;&#41; que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:)
-
-[comment]: <> (⚙️ [Desafio 106 - Sistema interativo de ajuda em Python]&#40;./challenge106.py&#41;)
-
-[comment]: <> (- Faça um mini-sistema que utilize o Interactive Help do Python. )
-
-[comment]: <> (- O usuário vai digitar o comando e o manual vai aparecer. )
-
-[comment]: <> (- Quando o usuário digitar a palavra 'FIM', o programa se encerrará. )
-
-[comment]: <> (- Importante: use cores.)
+⚙️ [Desafio 106 - Sistema interativo de ajuda em Python](./challenge106.py)
+- Faça um mini-sistema que utilize o Interactive Help do Python. 
+- O usuário vai digitar o comando e o manual vai aparecer. 
+- Quando o usuário digitar a palavra 'FIM', o programa se encerrará. 
+- Importante: use cores.
 
 [comment]: <> (⚙️ [Desafio 107 - Exercitando módulos em Python]&#40;./challenge107.py&#41;)
 
