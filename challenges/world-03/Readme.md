@@ -3,6 +3,8 @@
 </p>
 <h1 align="center">MUNDO 3</h1>
 
+## A resolução será mostrada quando for diferente do desafio realizado
+
 ⚙️ [Desafio 72 - Número por Extenso](./challenge072.py)
 - Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte. 
 - Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
@@ -137,13 +139,15 @@ lista = ('Lapis', 10, 'Caneta', 20)
 
 - ⚙️ [Desafio 95 - Aprimorando os Dicionários](./challenge095.py)
 - Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
-- [Resolução do Professor](./challenge093P.py)
+- [Resolução do Professor](./challenge095P.py)
 
 ⚙️ [Desafio 96 - Função que calcula área](./challenge096.py)
 - Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+- [Resolução do Professor](./challenge096P.py)
 
 ⚙️ [Desafio 97 - Um print especial](./challenge097.py)
 - Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
+
 
 ⚙️ [Desafio 98 - Função de Contador](./challenge098.py)
 - Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo. 
@@ -159,6 +163,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 100 - Funções para sortear e somar](./challenge100.py)
 - Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). 
 - A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
+- [Resolução do Professor](./challenge100P.py)
 
 [comment]: <> (⚙️ [Desafio 101 - Funções para votação]&#40;./challenge101.py&#41;)
 
