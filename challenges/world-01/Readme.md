@@ -111,25 +111,22 @@
 
 ⚙️ [Desafio 27 – Primeiro e último nome de uma pessoa](./challenge027.py)
 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
-- [Resolução do Professor](./challenge027P.py)
 
 - Exemplo:
   ```python
   Digite seu nome: Ana Maria de Souza
-
   primeiro = Ana
   último = Souza
   ```
+- [Resolução do Professor](./challenge027P.py)
 
 ⚙️ [Desafio 28 – Jogo da Adivinhação v.1.0](./challenge028.py)
 - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. 
 - O programa deverá escrever na tela se o usuário venceu ou perdeu.
-
 **Dicas:**
-
 *random.randint(a, b)* => Retorna um inteiro aleatório N de forma que a <= N <= b. 
-
 *time.sleep(secs)* => Execução suspensa da thread chamada para o número de segundos dado. O argumento pode ser um número em ponto flutuante para indicar um tempo de sono mais preciso. O tempo de suspensão atual pode ser menor do que o solicitado porque qualquer sinal capturado irá terminar sleep() seguindo a execução da rotina de captura daquele sinal. Além disso, o tempo de suspensão pode ser maior do que o solicitado por uma quantidade arbitrária devido ao agendamento de outra atividade no sistema.
+- [Resolução do Professor](./challenge028P.py)
 
 ⚙️ [Desafio 29 – Radar eletrônico](./challenge029.py)
 - Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
