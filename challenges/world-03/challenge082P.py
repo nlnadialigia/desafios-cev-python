@@ -6,14 +6,12 @@ color = '\33[1;35m'
 clear = '\33[0;0m'
 
 print(color)
-print('Minha Resolução: ', end='')
+print('Resolução do Professor: ', end='')
 print(clear)
 while True:
-    choice = ' '
     lista.append(int(input('Digite um número: ')))
-    while choice not in 'SN':
-        choice = str(input('Quer continuar? [S/N] ')).strip().upper()[0]
-    if choice == 'N':
+    choice = str(input('Quer continuar? [S/N] '))
+    if choice in 'Nn':
         break
 print('-=' * 40)
 print(f'A lista completa é {lista}')

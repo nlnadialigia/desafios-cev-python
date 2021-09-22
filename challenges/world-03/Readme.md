@@ -70,6 +70,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - Crie um programa que vai ler vários números e colocar em uma lista. 
 - Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. 
 - Ao final, mostre o conteúdo das três listas geradas.
+- [Resolução do Professor](./challenge082P.py)
 
 ⚙️ [Desafio 83 - Validando expressões matemáticas](./challenge083.py)
 - Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. 
