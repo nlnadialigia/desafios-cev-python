@@ -8,6 +8,7 @@
 ⚙️ [Desafio 72 - Número por Extenso](./challenge072.py)
 - Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte. 
 - Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
+- [Resolução do Professor](./challenge072P.py)
 
 ⚙️ [Desafio 73 - Tuplas com Times de Futebol](./challenge073.py)
 - Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. 
