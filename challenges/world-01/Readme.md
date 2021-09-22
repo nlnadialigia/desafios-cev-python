@@ -101,6 +101,7 @@
 
 ⚙️ [Desafio 25 – Procurando uma string dentro de outra](./challenge025.py)
 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA"
+- [Resolução do Professor](./challenge025P.py)
 
 ⚙️ [Desafio 26 – Primeira e última ocorrência de uma string](./challenge026.py)
 - Faça um programa que leia uma frase pelo teclado e mostre:

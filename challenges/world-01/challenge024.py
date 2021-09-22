@@ -12,12 +12,5 @@ print(name)
 print(first)
 print('Santo' in first)
 
-print(color)
-print('Resolução do Professor: ', end='')
-print(clear)
-city = str(input('Em que cidade você nasceu? ')).strip()
-name = city[:5].title()
-print(name)
-print('Santo' in name)
 
 
