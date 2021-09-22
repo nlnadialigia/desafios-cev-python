@@ -29,6 +29,7 @@
   A) Quantas vezes apareceu o valor 9.<br>
   B) Em que posição foi digitado o primeiro valor 3.<br>
   C) Quais foram os números pares.
+- [Resolução do Professor](./challenge075P.py)
 
 ⚙️ [Desafio 76 - Lista de Preços com Tupla](./challenge076.py)
 - Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. 
@@ -45,6 +46,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 78 - Maior e Menor valores na Lista](./challenge078.py)
 - Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. 
 - No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
+- [Resolução do Professor](./challenge078P.py)
 
 ⚙️ [Desafio 79 - Valores únicos em uma Lista](./challenge079.py)
 - Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. 
