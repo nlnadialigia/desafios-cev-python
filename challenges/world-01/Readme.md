@@ -59,6 +59,7 @@
 
 ⚙️ [Desafio 17 – Catetos e Hipotenusa](./challenge017.py)
 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
+- [Resolução do Professor](./challenge017P.py)
 
 ⚙️ [Desafio 18 – Seno, Cosseno e Tangente](./challenge018.py)
 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
