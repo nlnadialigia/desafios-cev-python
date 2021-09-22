@@ -8,10 +8,12 @@ color = '\33[1;35m'
 clear = '\33[0;0m'
 
 print(color)
-print('Minha Resolução: ', end='')
+print('Resolução do Professor: ', end='')
 print(clear)
-user = int(input('Digite um número entre 0 e 20: '))
-while user < 0 or user > 20:
-    print('Tente novamente.', end=' ')
+
+while True:
     user = int(input('Digite um número entre 0 e 20: '))
+    if 0 <= user <= 20:
+        break
+    print('Tente novamente.', end=' ')
 print(f'Você digitou o número {numbers[user]}')
