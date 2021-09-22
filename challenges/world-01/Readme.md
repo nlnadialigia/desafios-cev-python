@@ -130,6 +130,7 @@
 
 ⚙️ [Desafio 29 – Radar eletrônico](./challenge029.py)
 - Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+- [Resolução do Professor](./challenge029P.py)
 
 ⚙️ [Desafio 30 – Par ou Ímpar](./challenge030.py)
 - Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
