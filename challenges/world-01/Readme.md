@@ -141,6 +141,7 @@
 
 ⚙️ [Desafio 32 – Ano Bissexto](./challenge032.py)
 - Faça um programa que leia um ano qualquer e mostre se ele é **bissexto**.
+- [Resolução do Professor](./challenge032P.py)
 
 ⚙️ [Desafio 33 – Maior e menor valores](./challenge033.py)
 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor
