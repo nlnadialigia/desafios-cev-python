@@ -14,16 +14,3 @@ elif b > a:
     print('O segundo valor é maior')
 else:
     print('Não existe valor maior, os dois são iguais')
-
-print(color)
-print('Resolução do Professor: ', end='')
-print(clear)
-a = int(input('Primeiro número: '))
-b = int(input('Segundo número: '))
-
-if a > b:
-    print('O PRIMEIRO valor é maior')
-elif b > a:
-    print('O SEGUNDO valor é maior')
-else:
-    print('Não existe valor maior, os dois são IGUAIS')
