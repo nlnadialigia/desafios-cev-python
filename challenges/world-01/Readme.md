@@ -39,6 +39,7 @@
 
 ⚙️ [Desafio 11 – Pintando Parede](./challenge011.py)
 - Faça um programa que leia a largura e altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
+- [Resolução do Professor](./challenge011P.py)
 
 ⚙️ [Desafio 12 – Calculando Descontos](./challenge012.py)
 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço com 5% de desconto.
@@ -54,6 +55,7 @@
 
 ⚙️ [Desafio 16 – Quebrando um número](./challenge016.py)
 - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+- [Resolução do Professor](./challenge016P.py)
 
 ⚙️ [Desafio 17 – Catetos e Hipotenusa](./challenge017.py)
 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
