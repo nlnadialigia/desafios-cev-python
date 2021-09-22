@@ -20,9 +20,9 @@
 - Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 - [Resolução do Professor](./challenge005P.py)
 
-
 ⚙️ [Desafio 06 – Dobro, Triplo, Raiz Quadrada](./challenge006.py)
 - Cria um algorítimo que leia um número e mosto o seu dobro, tripo e raiz quadrada.
+- [Resolução do Professor](./challenge006P.py)
 
 ⚙️ [Desafio 07 – Média Aritmética](./challenge007.py)
 - Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média
