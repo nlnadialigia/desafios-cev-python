@@ -17,7 +17,9 @@
 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
 ⚙️ [Desafio 05 – Antecessor e Sucessor](./challenge005.py)
-- Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor
+- Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+- [Resolução do Professor](./challenge005P.py)
+
 
 ⚙️ [Desafio 06 – Dobro, Triplo, Raiz Quadrada](./challenge006.py)
 - Cria um algorítimo que leia um número e mosto o seu dobro, tripo e raiz quadrada.
