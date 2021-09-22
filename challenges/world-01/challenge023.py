@@ -30,15 +30,3 @@ print('unidade: {}' .format(string[x-1]))
 print('dezena: {}' .format(string[x-2]))
 print('centena: {}' .format(string[x-3]))
 print('milhar: {}' .format(string[x-4]))
-
-print(color)
-print('Resolução do Professor: ', end='')
-print(clear)
-u = num // 1 % 10
-d = num // 10 % 10
-c = num // 100 % 10
-m = num // 1000
-print('unidade: {}'.format(u))
-print('dezena: {}'.format(d))
-print('centena: {}'.format(c))
-print('milhar: {}'.format(m))

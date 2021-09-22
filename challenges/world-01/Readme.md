@@ -85,15 +85,16 @@
 ⚙️ [Desafio 23 – Separando dígitos de um número](./challenge023.py)
 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados. Fazer o programa como string e como number.
 
-- Exemplo:
-  ```python
-  Digite um número: 1834
+  - Exemplo:
+    ```python
+    Digite um número: 1834
 
-  unidade: 4
-  dezena: 3
-  centena: 8
-  milhar: 1
-  ```
+    unidade: 4
+    dezena: 3
+    centena: 8
+    milhar: 1
+    ```
+- [Resolução do Professor](./challenge023P.py)
 
 ⚙️ [Desafio 24 – Verificando as primeiras letras de um texto](./challenge024.py)
 - Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome "SANTO".
