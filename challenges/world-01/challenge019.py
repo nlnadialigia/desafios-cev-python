@@ -13,10 +13,3 @@ students = a, b, c, d
 student = choice(students)
 print('O aluno sorteado foi {}' .format(student))
 
-
-print(color)
-print('Resolução do Professor: ', end='')
-print(clear)
-students = [a, b, c, d]
-student = choice(students)
-print('O aluno sorteado foi {}' .format(student))

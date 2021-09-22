@@ -70,6 +70,7 @@
 
 ⚙️ [Desafio 20 – Sorteando uma ordem na lista](./challenge020.py)
 - O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+- [Resolução do Professor](./challenge020P.py)
 
 ⚙️ [Desafio 21 – Tocando um MP3](./challenge021.py)
 - Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
