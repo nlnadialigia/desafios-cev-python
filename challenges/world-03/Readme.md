@@ -64,6 +64,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
   A) Quantos números foram digitados.<br>
   B) A lista de valores, ordenada de forma decrescente.<br>
   C) Se o valor 5 foi digitado e está ou não na lista.
+- [Resolução do Professor](./challenge081P.py)
 
 ⚙️ [Desafio 82 - Dividindo valores em várias listas](./challenge082.py)
 - Crie um programa que vai ler vários números e colocar em uma lista. 
