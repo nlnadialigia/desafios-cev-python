@@ -80,6 +80,7 @@
   - O nome com todas as letras maiúsculas e minúsculas.
   - Quantas letras ao todo (sem considerar espaços).
   - Quantas letras tem o primeiro nome.
+- [Resolução do Professor](./challenge022P.py)
 
 ⚙️ [Desafio 23 – Separando dígitos de um número](./challenge023.py)
 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados. Fazer o programa como string e como number.
