@@ -13,6 +13,7 @@
   - 1 para binário,
   - 2 para octal e
   - 3 para hexadecimal.
+- [Resolução do Professor](./challenge037P.py)
 
 ⚙️ [Desafio 38 – Comparando números](./challenge038.py)
 - Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem:
