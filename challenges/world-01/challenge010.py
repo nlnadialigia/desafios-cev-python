@@ -9,11 +9,6 @@ print(clear)
 result = n / exchange
 print('Você tem R${:.2f}, que corresponde a US${:.2f}' .format(n, result))
 
-print(color)
-print('Resolução do Professor: ', end='')
-print(clear)
-real = float(input('Quanto dinheiro você tem na carteira? R$'))
-dollar = real / exchange
-print('Com R${:.2f} você pode comprar US${:.2f}' .format(real, dollar))
+
 
 

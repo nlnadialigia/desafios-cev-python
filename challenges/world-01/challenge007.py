@@ -9,9 +9,4 @@ print(clear)
 avarage = (grade1 + grade2)/2
 print('Suas notas são {} e {}. A média de suas notas é {}' .format(grade1, grade2, avarage))
 
-print(color)
-print('Resolução do Professor: ', end='')
-print(clear)
-avarage = (grade1 + grade2)/2
-print('A média entre {} e {} é {}' .format(grade1, grade2, avarage))
 

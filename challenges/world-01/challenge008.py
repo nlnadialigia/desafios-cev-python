@@ -9,8 +9,4 @@ print('Minha Resolução: ', end='')
 print(clear)
 print('O valor digitado é {}m, que corresponde a {}cm e {}mm' .format(n, cm, mm))
 
-print(color)
-print('Resolução do Professor: ', end='')
-print(clear)
-print('A medida de {}m corresponde a {:.0f}cm e {:.0f}mm' .format(n, cm, mm))
 
