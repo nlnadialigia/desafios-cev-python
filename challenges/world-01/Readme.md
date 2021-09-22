@@ -63,6 +63,7 @@
 
 ⚙️ [Desafio 18 – Seno, Cosseno e Tangente](./challenge018.py)
 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+- [Resolução do Professor](./challenge018P.py)
 
 ⚙️ [Desafio 19 – Sorteando um item na lista](./challenge019.py)
 - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
