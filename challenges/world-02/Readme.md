@@ -196,7 +196,7 @@ PROGRAMA TABUADA ENCERRADO. VOLTE SEMPRE!
   C) quantas mulheres tem menos de 20 anos.
 
 ⚙️ [Desafio 70 - Estatísticas em produtos](./challenge070.py)
-- Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar ou não. No final, mostre:<br>
+- Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar ou não. No final, mostre: <br>
   A) qual é o total gasto na compra.<br>
   B) quantos produtos custam mais de R$1000.<br>
   C) qual é o nome do produto mais barato.

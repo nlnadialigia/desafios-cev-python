@@ -155,7 +155,6 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 97 - Um print especial](./challenge097.py)
 - Faça um programa que tenha uma função chamada `escreva()`, que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
 
-
 ⚙️ [Desafio 98 - Função de Contador](./challenge098.py)
 - Faça um programa que tenha uma função chamada `contador()`, que receba três parâmetros: início, fim e passo. 
 - Seu programa tem que realizar três contagens através da função criada:<br>
