@@ -76,6 +76,7 @@
 
 ⚙️ [Desafio 49 - Tabuada v.2.0](./challenge049.py)
 - Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+- [Resolução do Professor](./challenge049P.py)
 
 ⚙️ [Desafio 50 - Soma dos pares](./challenge050.py)
 - Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
@@ -94,6 +95,7 @@
   - A TORRE DA DERROTA
   - O LOBO AMA O BOLO
   - ANOTARAM A DATA DA MARATONA
+- [Resolução do Professor](./challenge053P.py)
 
 ⚙️ [Desafio 54 - Grupo da Maioridade](./challenge054.py)
 - Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
