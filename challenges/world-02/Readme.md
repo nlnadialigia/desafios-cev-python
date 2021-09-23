@@ -60,6 +60,7 @@
   - à vista no cartão: 5% de desconto
   - em até 2x no cartão: preço formal
   - 3x ou mais no cartão: 20% de juros
+- [Resolução do Professor](./challenge044P.py)
 
 ⚙️ [Desafio 45 – GAME: Pedra Papel e Tesoura](./challenge045.py)
 - Crie um programa que faça o computador jogar Jokenpô com você.
