@@ -175,7 +175,9 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - Crie um programa que tenha uma função chamada `voto()` que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL e OBRIGATÓRIO nas eleições.
 
 ⚙️ [Desafio 102 - Função para Fatorial](./challenge102.py)
-- Crie um programa que tenha uma função `fatorial()` que receba dois parâmetros: o primeiro que indique o número a calcular e outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
+- Crie um programa que tenha uma função `fatorial()` que receba dois parâmetros: 
+  - o primeiro que indique o número a calcular e 
+  - outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
 
 ⚙️ [Desafio 103 - Ficha do Jogador](./challenge103.py)
 - Faça um programa que tenha uma função chamada `ficha()`, que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. 
