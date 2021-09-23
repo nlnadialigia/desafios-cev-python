@@ -19,25 +19,3 @@ while c < (num - 1):
 print('\33[1;35m {}'.format(n))
 print('FIM')
 
-print(color)
-print('Resolução do Professor: ', end='')
-print(clear)
-print('\33[1;33m')
-print('-' * 40)
-print('Sequencia de Fibonacci'.center(40))
-print('-' * 40)
-print('\33[m', end='')
-n = int(input('Quantos termos você quer mostrar? '))
-t1 = 0
-t2 = 1
-print('\33[1;32m~' * 40)
-print('{} -> {}'.format(t1, t2), end='')
-cont = 3
-while cont <= n:
-   t3 = t1 + t2
-   print(' -> {}'.format(t3), end='')
-   t1 = t2
-   t2 = t3
-   cont += 1
-print(' -> FIM')
-print('~' * 40)

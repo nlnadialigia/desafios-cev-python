@@ -172,6 +172,7 @@ PROGRAMA TABUADA ENCERRADO. VOLTE SEMPRE!
 ⚙️ [Desafio 68 - Jogo do Par ou Ímpar](./challenge068.py)
 - Faça um programa que jogue par ou ímpar com o computador. 
 - O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+- [Resolução do Professor](./challenge068P.py)
 
   ```python
   VAMOS JOGAR PAR OU ÍMPAR
