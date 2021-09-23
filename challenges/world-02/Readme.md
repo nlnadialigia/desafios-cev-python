@@ -109,6 +109,7 @@
   - a média de idade do grupo,
   - qual é o nome do homem mais velho e
   - quantas mulheres têm menos de 20 anos.
+- [Resolução do Professor](./challenge056P.py)
 
 ⚙️ [Desafio 57 - Validação de Dados](./challenge057.py)
 - Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
