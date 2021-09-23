@@ -131,6 +131,7 @@
 - Faça um programa que leia um número qualquer e mostre o seu fatorial.
 - Faça com `while` e com `for`<br>
   *Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120*
+- [Resolução do Professor](./challenge060P.py)
 
 ⚙️ [Desafio 61 - Progressão Aritmética v.2.0](./challenge061.py)
 - Refaça o DESAFIO 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura `while`.

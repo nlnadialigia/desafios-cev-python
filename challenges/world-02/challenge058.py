@@ -20,29 +20,3 @@ while player != computer:
     count += 1
 print('Você acertou depois de {} tentativas!'.format(count))
 
-print(color)
-print('Resolução do Professor: ', end='')
-print(clear)
-print('-=-'*25)
-print('Sou seu computador...')
-sleep(1)
-print('Acabei de pensar em um número entre 0 e 10.')
-sleep(1)
-print('Será que você consegue adivinhar qual foi?')
-sleep(1)
-print('-=-'*25)
-sleep(3)
-palpites = 0
-acertou = False
-while not acertou:
-    player = int(input('Qual é seu palpite? '))
-    palpites += 1
-    if player == computer:
-        acertou = True
-    else:
-        if player < computer:
-            print('\33[1;31mMais...\33[m', end=' ')
-        else:
-            print('\33[1;34mMenos...\33[m', end=' ')
-        print('Tente mais uma vez.')
-print('Você acertou com {} tentativas! Parabéns!'.format(palpites))
