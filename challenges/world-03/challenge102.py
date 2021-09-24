@@ -1,4 +1,10 @@
 def fatorial(n, show=False):
+    """
+    => Cálculo do fatoria de um número.
+    :param n: O número a ser calculado
+    :param show: (opcional) Mostrar ou não a conta.
+    :return: O valor do Fatorial de um número n.
+    """
     fat = 1
     print('*' * 30)
     for i in range(1, n + 1):
