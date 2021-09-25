@@ -118,7 +118,7 @@ Exemplos desenvolvidos nas aulas teóricas do curso.
 
 ### ⚙️ Aula 22 - Módulos e Pacotes
 
-- Foi criado um projeto em separado para facilitar a demonstração de módulos e pacotes. Para acessar [clique aqui!](../modularizacao)
+- Foi criado um projeto em separado para facilitar a demonstração de módulos e pacotes. Para acessar [clique aqui!](https://github.com/nlnadialigia/modularizacao)
 
 ### ⚙️ Aula 23 - Tratamento de erros e exceções
 ************
