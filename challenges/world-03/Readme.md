@@ -184,6 +184,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 103 - Ficha do Jogador](./challenge103.py)
 - Faça um programa que tenha uma função chamada `ficha()`, que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. 
 - O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
+- [Resolução do Professor](./challenge103P.py)
 
 ⚙️ [Desafio 104 - Validando entrada de dados em Python](./challenge104.py)
 - Crie um programa que tenha a função `leiaInt()`, que vai funcionar de forma semelhante à função `input()` do Python, só que fazendo a validação para aceitar apenas um valor numérico.
