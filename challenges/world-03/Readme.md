@@ -198,6 +198,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
   - A média da turma
   - A situação (opcional)
 - Adicione também `docStrings` da função
+- [Resolução do Professor](./challenge105P.py)
 
 ⚙️ [Desafio 106 - Sistema interativo de ajuda em Python](./challenge106.py)
 - Faça um mini-sistema que utilize o Interactive Help do Python. 
