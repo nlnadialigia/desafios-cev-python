@@ -173,6 +173,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
 
 ⚙️ [Desafio 101 - Funções para votação](./challenge101.py)
 - Crie um programa que tenha uma função chamada `voto()` que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL e OBRIGATÓRIO nas eleições.
+- [Resolução do Professor](./challenge101P.py)
 
 ⚙️ [Desafio 102 - Função para Fatorial](./challenge102.py)
 - Crie um programa que tenha uma função `fatorial()` que receba dois parâmetros: 
