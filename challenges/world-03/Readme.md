@@ -206,35 +206,33 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - Quando o usuário digitar a palavra 'FIM', o programa se encerrará. 
 - Importante: use cores.
 
-[comment]: <> (⚙️ [Desafio 107 - Exercitando módulos em Python]&#40;./challenge107.py&#41;)
+⚙️ [Desafio 107 - Exercitando módulos em Python](./challenge107)
+- Crie um módulo chamado `moeda.py` que tenha as funções incorporadas `aumentar()`, `diminuir()`, `dobro()` e `metade()`. 
+- Faça também um programa que importe esse módulo e use algumas dessas funções.
 
-[comment]: <> (- Crie um módulo chamado `moeda.py` que tenha as funções incorporadas aumentar&#40;&#41;, diminuir&#40;&#41;, dobro&#40;&#41; e metade&#40;&#41;. )
+[comment]: <> (⚙️ [Desafio 108 - Formatando Moedas em Python]&#40;./challenge108&#41;)
 
-[comment]: <> (- Faça também um programa que importe esse módulo e use algumas dessas funções.)
+[comment]: <> (- Adapte o código do desafio 107, criando uma função adicional chamada `moeda&#40;&#41;` que consiga mostrar os números como um valor monetário formatado.)
 
-[comment]: <> (⚙️ [Desafio 108 - Formatando Moedas em Python]&#40;./challenge108.py&#41;)
-
-[comment]: <> (- Adapte o código do desafio 107, criando uma função adicional chamada moeda&#40;&#41; que consiga mostrar os números como um valor monetário formatado.)
-
-[comment]: <> (⚙️ [Desafio 109 - Formatando Moedas em Python]&#40;./challenge109.py&#41;)
+[comment]: <> (⚙️ [Desafio 109 - Formatando Moedas em Python]&#40;./challenge109&#41;)
 
 [comment]: <> (- Modifique as funções que form criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda&#40;&#41;, desenvolvida no desafio 108.)
 
-[comment]: <> (⚙️ [Desafio 110 - Reduzindo ainda mais seu programa]&#40;./challenge110.py&#41;)
+[comment]: <> (⚙️ [Desafio 110 - Reduzindo ainda mais seu programa]&#40;./challenge110&#41;)
 
-[comment]: <> (- Adicione o módulo `moeda.py` criado nos desafios anteriores, uma função chamada resumo&#40;&#41;, que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.)
+[comment]: <> (- Adicione o módulo `moeda.py` criado nos desafios anteriores, uma função chamada `resumo&#40;&#41;`, que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.)
 
-[comment]: <> (⚙️ [Desafio 111 - Transformando módulos em pacotes]&#40;./challenge111.py&#41;)
+[comment]: <> (⚙️ [Desafio 111 - Transformando módulos em pacotes]&#40;./challenge111&#41;)
 
-[comment]: <> (- Crie um pacote chamado utilidadesCeV que tenha dois módulos internos chamados moeda e dado. )
+[comment]: <> (- Crie um pacote chamado `utilidadesCeV` que tenha dois módulos internos chamados `moeda` e `dado`. )
 
 [comment]: <> (- Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.)
 
-[comment]: <> (⚙️ [Desafio 112 - Entrada de dados monetários]&#40;./challenge112.py&#41;)
+[comment]: <> (⚙️ [Desafio 112 - Entrada de dados monetários]&#40;./challenge112&#41;)
 
-[comment]: <> (- Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. )
+[comment]: <> (- Dentro do pacote `utilidadesCeV` que criamos no desafio 111, temos um módulo chamado `dado`. )
 
-[comment]: <> (- Crie uma função chamada leiaDinheiro&#40;&#41; que seja capaz de funcionar como a função imputa&#40;&#41;, mas com uma validação de dados para aceitar apenas valores que seja monetários.)
+[comment]: <> (- Crie uma função chamada `leiaDinheiro&#40;&#41;` que seja capaz de funcionar como a função `imputa&#40;&#41;`, mas com uma validação de dados para aceitar apenas valores que seja monetários.)
 
 [comment]: <> (⚙️ [Desafio 113 - Funções aprofundadas em Python]&#40;./challenge113.py&#41;)
 
