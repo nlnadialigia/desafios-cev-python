@@ -1,0 +1,3 @@
+[submodule "modularizacao"]
+	path = modularizacao
+	url = git@github.com:nlnadialigia/modularizacao

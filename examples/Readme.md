@@ -114,10 +114,11 @@ Exemplos desenvolvidos nas aulas teóricas do curso.
 - **Retorno de valores**
     - As funções podem ou não retornar valor
     - `return`
-    - Retornando uma função, é possível jogar dentro de uma variável ou diretamente no print
+    - Retornando uma função, é possível jogar em uma variável ou diretamente no print
 
 ### ⚙️ Aula 22 - Módulos e Pacotes
 
+- Foi criado um projeto em separado para facilitar a demonstração de módulos e pacotes. Para acessar [clique aqui!]()
 
 ### ⚙️ Aula 23 - Tratamento de erros e exceções
 ************
