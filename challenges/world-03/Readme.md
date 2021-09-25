@@ -179,6 +179,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - Crie um programa que tenha uma função `fatorial()` que receba dois parâmetros: 
   - o primeiro que indique o número a calcular e 
   - outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
+- [Resolução do Professor](./challenge102P.py)
 
 ⚙️ [Desafio 103 - Ficha do Jogador](./challenge103.py)
 - Faça um programa que tenha uma função chamada `ficha()`, que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. 

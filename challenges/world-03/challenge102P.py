@@ -5,18 +5,19 @@ def fatorial(n, show=False):
     :param show: (opcional) Mostrar ou não a conta.
     :return: O valor do Fatorial de um número n.
     """
-    fat = 1
+    f = 1
     print('*' * 30)
-    for i in range(1, n + 1):
-        fat *= n
+    for i in range(n, 0, -1):
         if show:
-            if n != 1:
-                print(f'{n} x ', end='')
+            print(i, end='')
+            if i > 1:
+                print(' x ', end='')
             else:
-                print(f'{n} ', end='')
-        n -= 1
-    return fat
+                print(' = ', end='')
+        f *= i
+    return f
 
 
-print(f'= {fatorial(5, show=True)}')
+# Programa principal
+print(fatorial(5, show=True))
 print(fatorial(5))
