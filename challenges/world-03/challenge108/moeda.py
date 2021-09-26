@@ -38,5 +38,10 @@ def metade(n):
 
 
 def moeda(n):
+    """
+    => Função que formata o valor em reais (R$)
+    :param n: valor
+    :return: valor formatado
+    """
     valor = '{:.2f}'.format(n).replace('.', ',')
     return f'R${valor}'
