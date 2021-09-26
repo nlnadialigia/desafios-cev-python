@@ -236,6 +236,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
 
 ⚙️ [Desafio 114 - Site está acessível?](./challenge114.py)
 - Crie um código em Python que teste se o site pudim está acessível pelo computador usado.
+- [Resolução do Professor](./challenge114P.py)
 
 ⚙️ [Desafio 115 - Criando um programa em Python](https://github.com/nlnadialigia/cadastro-pessoas)
 - Crie um pequeno **sistema modularizado** que permita cadastrar pessoas pelo seu `nome` e `idade` em um arquivo de texto simples.
