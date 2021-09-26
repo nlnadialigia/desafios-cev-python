@@ -121,8 +121,34 @@ Exemplos desenvolvidos nas aulas teóricas do curso.
 - Foi criado um projeto em separado para facilitar a demonstração de módulos e pacotes. Para acessar [clique aqui!](https://github.com/nlnadialigia/modularizacao)
 
 ### ⚙️ Aula 23 - Tratamento de erros e exceções
-************
 
+- **Exceção** ⇒ quando a sintaxe está correta, mas existem particularidades que não deixam o programa funcionar.
+- **Exemplos:**
+    - `print(x)`
+        - a variável `x` não foi inicializada
+    - **divisão**
+        ```python
+        a = int(input('Numerador: '))
+        b = int(input('Denominador: '))
+        r = a / b
+        print(f'O resultado é {r}')
+        ```
+        - apesar de não apresentar erro aparente, existem duas excessões:
+            - se for digitado qualquer valor que não seja inteiro
+            - se o denominador for igual a 0
+
+- **Comando da exceção:**
+```python
+try:
+    # operação
+except Exception as error:
+    # falhou
+else:
+    # deu certo
+finally:
+    # certo/falha
+```
+- Um mesmo `try` pode conter várias `exceptions`
 
 # 👩‍💼 Author
 <img src="../.github/picture.png" width="100px;" alt="Picture"/>
