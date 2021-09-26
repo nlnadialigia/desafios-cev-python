@@ -213,9 +213,8 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 108 - Formatando Moedas em Python](./challenge108)
 - Adapte o código do desafio 107, criando uma função adicional chamada `moeda()` que consiga mostrar os números como um valor monetário formatado.
 
-[comment]: <> (⚙️ [Desafio 109 - Formatando Moedas em Python]&#40;./challenge109&#41;)
-
-[comment]: <> (- Modifique as funções que form criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda&#40;&#41;, desenvolvida no desafio 108.)
+⚙️ [Desafio 109 - Formatando Moedas em Python](./challenge109)
+- Modifique as funções que foram criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvida no desafio 108.
 
 [comment]: <> (⚙️ [Desafio 110 - Reduzindo ainda mais seu programa]&#40;./challenge110&#41;)
 
