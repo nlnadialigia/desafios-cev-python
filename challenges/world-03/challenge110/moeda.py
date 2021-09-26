@@ -1,4 +1,4 @@
-def aumentar(n, p, m):
+def aumentar(n, p, m=True):
     """
     => Função que retorna o valor depois de sofrer acréscimo
     :param n: valor
@@ -13,7 +13,7 @@ def aumentar(n, p, m):
         return valor
 
 
-def diminuir(n, p, m):
+def diminuir(n, p, m=True):
     """
     => Função que retorna o valor depois de sofrer desconto
     :param n: valor
@@ -28,7 +28,7 @@ def diminuir(n, p, m):
         return valor
 
 
-def dobro(n, m):
+def dobro(n, m=True):
     """
     => Função que retorna o dobro do valor
     :param n: valor
@@ -42,7 +42,7 @@ def dobro(n, m):
         return valor
 
 
-def metade(n, m):
+def metade(n, m=True):
     """
     => Função que retorna a metade do valor
     :param n: valor
@@ -64,3 +64,22 @@ def moeda(n):
     """
     valor = '{:.2f}'.format(n).replace('.', ',')
     return f'R${valor}'
+
+
+def resumo(p, a, d):
+    print('*' * 35)
+    print('RESUMO DO VALOR'.center(35))
+    print('*' * 35)
+    print(f'Preço analisado: '.ljust(20), end='')
+    print(f'{moeda(p)}')
+    print(f'Dobro do preço: '.ljust(20), end='')
+    print(f'{dobro(p)}')
+    print(f'Metade do preço: '.ljust(20), end='')
+    print(f'{metade(p)}')
+    print(f'{a}% de aumento: '.ljust(20), end='')
+    print(f'{aumentar(p, a)}')
+    print(f'{d}% de redução: '.ljust(20), end='')
+    print(f'{aumentar(p, d)}')
+    print('*' * 35)
+
+

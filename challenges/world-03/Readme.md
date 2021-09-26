@@ -216,9 +216,8 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 109 - Formatando Moedas em Python](./challenge109)
 - Modifique as funções que foram criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvida no desafio 108.
 
-[comment]: <> (⚙️ [Desafio 110 - Reduzindo ainda mais seu programa]&#40;./challenge110&#41;)
-
-[comment]: <> (- Adicione o módulo `moeda.py` criado nos desafios anteriores, uma função chamada `resumo&#40;&#41;`, que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.)
+⚙️ [Desafio 110 - Reduzindo ainda mais seu programa](./challenge110)
+- Adicione o módulo `moeda.py` criado nos desafios anteriores, uma função chamada `resumo()`, que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
 
 [comment]: <> (⚙️ [Desafio 111 - Transformando módulos em pacotes]&#40;./challenge111&#41;)
 

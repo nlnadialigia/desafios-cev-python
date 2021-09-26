@@ -1,28 +1,25 @@
 <p align="center">
   <img src="../../../.github/logo.png" width=300 alt="Curso em Vídeo">
 </p>
-<h1 align="center">DESAFIO 109</h1>
+<h1 align="center">DESAFIO 110</h1>
 
-## ⚙️ Formatando Moedas em Python
-- Modifique as funções que foram criadas no desafio 107 
-  - para que elas aceitem um parâmetro a mais, 
-  - informando se o valor retornado por elas vai ser ou não formatado pela função `moeda()`
+## ⚙️ Reduzindo ainda mais seu programa
+- Adicione no módulo `moeda.py`:
+  - uma função chamada `resumo()`, 
+  - que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
 
 ### ✔️ Resultado
 ```
-moeda = True
 Digite o preço: R$500
-A metade de 500.0 é R$250,00
-O dobro de 500.0 é R$1000,00
-Aumentando 10%, temos R$550,00
-Reduzindo 13%, temos R$435,00
-
-moeda = False
-Digite o preço: R$500
-A metade de 500.0 é 250.0
-O dobro de 500.0 é 1000.0
-Aumentando 10%, temos 550.0
-Reduzindo 13%, temos 435.0
+***********************************
+          RESUMO DO VALOR          
+***********************************
+Preço analisado:    R$500,00
+Dobro do preço:     R$1000,00
+Metade do preço:    R$250,00
+80% de aumento:     R$900,00
+35% de redução:     R$675,00
+***********************************
 ```
 
 # 👩‍💼 Author
