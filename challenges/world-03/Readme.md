@@ -229,15 +229,19 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - No pacote `utilidadesCeV` que criamos no desafio 111, temos um módulo chamado `dado`. 
 - Crie uma função chamada `leiaDinheiro()` que seja capaz de funcionar como a função `imput()`, mas com uma validação de dados para aceitar apenas valores que seja monetários.
 
-[comment]: <> (⚙️ [Desafio 113 - Funções aprofundadas em Python]&#40;./challenge113.py&#41;)
-
-[comment]: <> (- Reescreva a função leiaInt&#40;&#41; que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. )
-
-[comment]: <> (- Aproveite e crie também uma função leiaFloat&#40;&#41; com a mesma funcionalidade.)
+⚙️ [Desafio 113 - Funções aprofundadas em Python](./challenge113.py)
+- Reescreva a função `leiaInt()` que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. 
+- Aproveite e crie também uma função `leiaFloat()` com a mesma funcionalidade.
 
 [comment]: <> (⚙️ [Desafio 114 - Site está acessível?]&#40;./challenge114.py&#41;)
 
 [comment]: <> (- Crie um código em Python que teste se o site pudim está acessível pelo computador usado.)
+
+[comment]: <> (⚙️ [Desafio 115 - Criando um menu em Python]&#40;./challenge115.py&#41;)
+
+[comment]: <> (- Crie um pequeno **sistema modularizado** que permita cadastrar pessoas pelo seu `nome` e `idade` em um arquivo de texto simples.-)
+
+[comment]: <> (- O sistema só vai ter **2 opções**: `cadastrar` uma nova pessoa e `listar` todas as pessoas cadastradas)
 
 [comment]: <> (⚙️ [Desafio 115a - Criando um menu em Python]&#40;./challenge115a.py&#41;)
 
