@@ -210,9 +210,8 @@ lista = ('Lapis', 10, 'Caneta', 20)
 - Crie um módulo chamado `moeda.py` que tenha as funções incorporadas `aumentar()`, `diminuir()`, `dobro()` e `metade()`. 
 - Faça também um programa que importe esse módulo e use algumas dessas funções.
 
-[comment]: <> (⚙️ [Desafio 108 - Formatando Moedas em Python]&#40;./challenge108&#41;)
-
-[comment]: <> (- Adapte o código do desafio 107, criando uma função adicional chamada `moeda&#40;&#41;` que consiga mostrar os números como um valor monetário formatado.)
+⚙️ [Desafio 108 - Formatando Moedas em Python](./challenge108)
+- Adapte o código do desafio 107, criando uma função adicional chamada `moeda()` que consiga mostrar os números como um valor monetário formatado.
 
 [comment]: <> (⚙️ [Desafio 109 - Formatando Moedas em Python]&#40;./challenge109&#41;)
 
