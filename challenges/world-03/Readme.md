@@ -219,11 +219,11 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 110 - Reduzindo ainda mais seu programa](./challenge110)
 - Adicione o módulo `moeda.py` criado nos desafios anteriores, uma função chamada `resumo()`, que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
 
-[comment]: <> (⚙️ [Desafio 111 - Transformando módulos em pacotes]&#40;./challenge111&#41;)
+⚙️ [Desafio 111 - Transformando módulos em pacotes](./challenge111.py)
+- Crie um pacote chamado `utilidadesCeV` que tenha dois módulos internos chamados `moeda` e `dado`. 
+- Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
 
-[comment]: <> (- Crie um pacote chamado `utilidadesCeV` que tenha dois módulos internos chamados `moeda` e `dado`. )
-
-[comment]: <> (- Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.)
+- **📌 Observação:** o [pacote](../../utilidadesCeV) foi criado na raiz do projeto
 
 [comment]: <> (⚙️ [Desafio 112 - Entrada de dados monetários]&#40;./challenge112&#41;)
 
