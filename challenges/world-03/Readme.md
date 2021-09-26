@@ -232,6 +232,7 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 113 - Funções aprofundadas em Python](./challenge113.py)
 - Reescreva a função `leiaInt()` que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. 
 - Aproveite e crie também uma função `leiaFloat()` com a mesma funcionalidade.
+- [Resolução do Professor](./challenge113P.py)
 
 ⚙️ [Desafio 114 - Site está acessível?](./challenge114.py)
 - Crie um código em Python que teste se o site pudim está acessível pelo computador usado.
