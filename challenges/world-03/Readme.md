@@ -236,23 +236,14 @@ lista = ('Lapis', 10, 'Caneta', 20)
 ⚙️ [Desafio 114 - Site está acessível?](./challenge114.py)
 - Crie um código em Python que teste se o site pudim está acessível pelo computador usado.
 
-[comment]: <> (⚙️ [Desafio 115 - Criando um menu em Python]&#40;./challenge115.py&#41;)
-
-[comment]: <> (- Crie um pequeno **sistema modularizado** que permita cadastrar pessoas pelo seu `nome` e `idade` em um arquivo de texto simples.-)
-
-[comment]: <> (- O sistema só vai ter **2 opções**: `cadastrar` uma nova pessoa e `listar` todas as pessoas cadastradas)
-
-[comment]: <> (⚙️ [Desafio 115a - Criando um menu em Python]&#40;./challenge115a.py&#41;)
-
-[comment]: <> (- Vamos criar um menu em Python, usando modularização.)
-
-[comment]: <> (⚙️ [Desafio 115b - Arquivos com Python]&#40;./challenge115b.py&#41;)
-
-[comment]: <> (- Vamos ver como fazer acesso a arquivos usando o Python.)
-
-[comment]: <> (⚙️ [Desafio 115c - Finalizando o projeto]&#40;./challenge115c.py&#41;)
-
-[comment]: <> (- Vamos finalizar o projeto de acesso a arquivos em Python.)
+⚙️ [Desafio 115 - Criando um programa em Python]()
+- Crie um pequeno **sistema modularizado** que permita cadastrar pessoas pelo seu `nome` e `idade` em um arquivo de texto simples.
+- O sistema só vai ter **2 opções**: `cadastrar` uma nova pessoa e `listar` todas as pessoas cadastradas
+- O sistema será realizado em três partes:
+    - Criando um menu
+    - Arquivos com Python
+    - Finalizando o projeto
+- **Projeto realizado em repositório separado**
 
 # 👩‍💼 Author
 <img src="../../.github/picture.png" width="100px;" alt="Picture"/>

@@ -1,3 +1,6 @@
 [submodule "modularizacao"]
 	path = modularizacao
 	url = git@github.com:nlnadialigia/modularizacao
+[submodule "cadastro-pessoas"]
+	path = cadastro-pessoas
+	url = git@github.com:nlnadialigia/cadastro-pessoas
